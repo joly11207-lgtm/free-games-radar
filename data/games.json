@@ -1,9 +1,58 @@
 [
   {
-    "title": "Sample Game",
+    "title": "Firestone Online Idle RPG",
+    "platform": "Epic Games",
+    "originalPrice": "0",
+    "endDate": "2026-05-07T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+    "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1vv9i.png"
+  },
+  {
+    "title": "DOOMBLADE",
+    "platform": "Epic Games",
+    "originalPrice": "$14.99",
+    "endDate": "2026-04-30T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/doomblade-afdf9a",
+    "image": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg"
+  },
+  {
+    "title": "Ghostrunner 2",
+    "platform": "Epic Games",
+    "originalPrice": "$39.99",
+    "endDate": "2026-06-11T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/ghostrunner-2",
+    "image": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba"
+  },
+  {
+    "title": "Oddsparks: An Automation Adventure",
     "platform": "Epic Games",
     "originalPrice": "$29.99",
-    "endDate": "2026-04-30",
-    "url": "https://store.epicgames.com/"
+    "endDate": "2026-05-07T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
+    "image": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png"
+  },
+  {
+    "title": "LISA: The Definitive Edition",
+    "platform": "Epic Games",
+    "originalPrice": "$24.99",
+    "endDate": "2026-06-11T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
+    "image": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5"
+  },
+  {
+    "title": "Castlevania Anniversary Collection",
+    "platform": "Epic Games",
+    "originalPrice": "$19.99",
+    "endDate": "2026-06-11T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
+    "image": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg"
+  },
+  {
+    "title": "Monument Valley",
+    "platform": "Epic Games",
+    "originalPrice": "$7.99",
+    "endDate": "2026-06-11T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
+    "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   }
 ]
