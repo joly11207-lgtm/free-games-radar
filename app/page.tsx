@@ -1,12 +1,4 @@
-const games = [
-  {
-    title: "Sample Game",
-    platform: "Epic Games",
-    originalPrice: "$29.99",
-    endDate: "2026-04-30",
-    url: "https://store.epicgames.com/",
-  },
-];
+import games from "../data/games.json";
 
 export default function Home() {
   return (
@@ -16,7 +8,15 @@ export default function Home() {
       <h2>🔥 This Week Free Games</h2>
 
       {games.map((game, i) => (
-        <div key={i} style={{ border: "1px solid #ddd", padding: 16, marginBottom: 16 }}>
+        <div
+          key={i}
+          style={{
+            border: "1px solid #ddd",
+            padding: 16,
+            marginBottom: 16,
+            borderRadius: 12,
+          }}
+        >
           <h3>{game.title}</h3>
           <p>Platform: {game.platform}</p>
           <p>
