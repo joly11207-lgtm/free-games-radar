@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 20
 
-      - run: node scripts/fetch-epic.js
+      - run: node scripts/fetch-all.js
 
       - run: |
           git config user.name "free-games-bot"
