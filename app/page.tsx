@@ -5,15 +5,22 @@ import games from "../data/games.json";
 
 export default function Home() {
   const [platform, setPlatform] = useState("All");
+  const [gogType, setGogType] = useState("All");
 
   const platforms = ["All", "Epic", "Steam", "GOG", "itch.io"];
 
-  const filteredGames =
-    platform === "All"
-      ? games
-      : games.filter((g) =>
-          g.platform.toLowerCase().includes(platform.toLowerCase())
-        );
+  const filteredGames = games.filter((g) => {
+  const matchPlatform =
+    platform === "All" ||
+    g.platform.toLowerCase().includes(platform.toLowerCase());
+
+  const matchGogType =
+    platform !== "GOG" ||
+    gogType === "All" ||
+    g.freeType === gogType.toLowerCase();
+
+  return matchPlatform && matchGogType;
+});
 
   return (
     <main className="min-h-screen bg-[#080808] text-white px-5 py-10">
@@ -101,6 +108,27 @@ export default function Home() {
             </article>
           ))}
         </div>
+        {platform === "GOG" && (
+  <div className="flex gap-2 mb-8 flex-wrap">
+    {["All", "Permanent", "Limited"].map((t) => (
+      <button
+        key={t}
+        onClick={() => setGogType(t)}
+        className={`px-4 py-2 rounded-full text-sm font-semibold transition ${
+          gogType === t
+            ? "bg-purple-500 text-white"
+            : "bg-white/10 text-white hover:bg-white/20"
+        }`}
+      >
+        {t === "All"
+          ? "All GOG"
+          : t === "Permanent"
+          ? "Permanent Free"
+          : "Limited-Time Free"}
+      </button>
+    ))}
+  </div>
+)}
 
         <section className="mt-12 rounded-2xl border border-white/10 bg-white/[0.04] p-6 text-center">
           <h2 className="text-2xl font-bold mb-2">🔔 Never miss a free game</h2>
