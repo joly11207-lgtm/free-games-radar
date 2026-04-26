@@ -1,92 +1,218 @@
 [
   {
-    "title": "",
+    "title": "Truxton Extreme",
     "platform": "GOG",
-    "originalPrice": "Paid",
+    "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/games/free",
+    "url": "https://www.gog.com/en/game/truxton_extreme",
     "image": "",
-    "source": "GOG Official"
+    "source": "GOG Official API"
   },
   {
-    "title": "",
+    "title": "Frostpunk 2: Breach of Trust",
     "platform": "GOG",
-    "originalPrice": "Paid",
+    "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/games/free",
+    "url": "https://www.gog.com/en/game/frostpunk_2_dlc_2",
     "image": "",
-    "source": "GOG Official"
+    "source": "GOG Official API"
   },
   {
-    "title": "",
+    "title": "R-Type Tactics I • II Cosmos",
     "platform": "GOG",
-    "originalPrice": "Paid",
+    "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/games/free",
+    "url": "https://www.gog.com/en/game/rtype_tactics_i_ii_cosmos",
     "image": "",
-    "source": "GOG Official"
+    "source": "GOG Official API"
   },
   {
-    "title": "",
+    "title": "Gothic 1 Remake",
     "platform": "GOG",
-    "originalPrice": "Paid",
+    "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/games/free",
+    "url": "https://www.gog.com/en/game/gothic_1_remake",
     "image": "",
-    "source": "GOG Official"
+    "source": "GOG Official API"
   },
   {
-    "title": "",
+    "title": "The 7th Guest Remake",
     "platform": "GOG",
-    "originalPrice": "Paid",
+    "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/games/free",
+    "url": "https://www.gog.com/en/game/the_7th_guest_remake",
     "image": "",
-    "source": "GOG Official"
+    "source": "GOG Official API"
   },
   {
-    "title": "",
+    "title": "Bubsy 4D",
     "platform": "GOG",
-    "originalPrice": "Paid",
+    "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/games/free",
+    "url": "https://www.gog.com/en/game/bubsy_4d",
     "image": "",
-    "source": "GOG Official"
+    "source": "GOG Official API"
   },
   {
-    "title": "",
+    "title": "Coffee Talk Tokyo",
     "platform": "GOG",
-    "originalPrice": "Paid",
+    "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/games/free",
+    "url": "https://www.gog.com/en/game/coffee_talk_tokyo",
     "image": "",
-    "source": "GOG Official"
+    "source": "GOG Official API"
   },
   {
-    "title": "",
+    "title": "COPA CITY",
     "platform": "GOG",
-    "originalPrice": "Paid",
+    "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/games/free",
+    "url": "https://www.gog.com/en/game/copa_city",
     "image": "",
-    "source": "GOG Official"
+    "source": "GOG Official API"
   },
   {
-    "title": "",
+    "title": "ZERO PARADES: For Dead Spies",
     "platform": "GOG",
-    "originalPrice": "Paid",
+    "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/games/free",
+    "url": "https://www.gog.com/en/game/zero_parades",
     "image": "",
-    "source": "GOG Official"
+    "source": "GOG Official API"
   },
   {
-    "title": "",
+    "title": "Corsairs - Battle of the Caribbean",
     "platform": "GOG",
-    "originalPrice": "Paid",
+    "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/games/free",
+    "url": "https://www.gog.com/en/game/corsairs_battle_of_the_caribbean",
     "image": "",
-    "source": "GOG Official"
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Songs of Silence - Crownless King Expansion",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/songs_of_silence_crownless_king_expansion",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "MOTORSLICE",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/motorslice",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Forbidden Solitaire",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/forbidden_solitaire",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Elementallis",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/elementallis",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "The Last Gas Station",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_last_gas_station",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Causal Loop",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/causal_loop",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Kumitantei: Old-School Slaughter",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/kumitantei_oldschool_slaughter",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Kumitantei: Old-School Slaughter Original Soundtrack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/kumitantei_oldschool_slaughter_original_soundtrack",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Liz and Rose’s Alchemy Factory",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/liz_and_roses_alchemy_factory",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Liz and Rose’s Alchemy Factory UNRATED",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/liz_and_roses_alchemy_factory_unrated",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Titanium Court",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/titanium_court",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Titanium Court Soundtrack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/titanium_court_soundtrack",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Titanium Court with a Side of Soundtrack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/titanium_court_with_a_side_of_soundtrack",
+    "image": "",
+    "source": "GOG Official API"
+  },
+  {
+    "title": "Wartales - Contract: Fires in the Capital",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/wartales_contract_fires_in_the_capital",
+    "image": "",
+    "source": "GOG Official API"
   }
 ]

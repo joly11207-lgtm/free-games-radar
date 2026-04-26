@@ -1,28 +1,28 @@
 const fs = require("fs");
 const path = require("path");
 
-const URL = "https://www.gog.com/en/games/free";
+const API =
+  "https://catalog.gog.com/v1/catalog?limit=24&price=free&order=desc:releaseDate";
 
 async function main() {
-  const res = await fetch(URL);
+  const res = await fetch(API);
 
   if (!res.ok) {
-    throw new Error("Failed to fetch GOG page");
+    throw new Error(`GOG API failed: ${res.status}`);
   }
 
-  const html = await res.text();
+  const data = await res.json();
 
-  // 简单提取游戏名称（GOG页面结构变化较多，这里先做基础版）
-  const matches = [...html.matchAll(/product-title[^>]*>(.*?)<\/div>/g)];
+  const products = data.products || [];
 
-  const games = matches.slice(0, 10).map((m) => ({
-    title: m[1].replace(/<[^>]+>/g, "").trim(),
+  const games = products.map((item) => ({
+    title: item.title,
     platform: "GOG",
-    originalPrice: "Paid",
+    originalPrice: "Free",
     endDate: "",
-    url: "https://www.gog.com/en/games/free",
-    image: "",
-    source: "GOG Official"
+    url: `https://www.gog.com/en/game/${item.slug}`,
+    image: item._links?.image || "",
+    source: "GOG Official API",
   }));
 
   const outputPath = path.join(__dirname, "../data/gog.json");
