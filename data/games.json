@@ -232,6 +232,28 @@
     "freeType": "limited"
   },
   {
+    "title": "Mask City: Chapter Zero",
+    "slug": "mask_city_chapter_zero",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/mask_city_chapter_zero",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Mask City: Chapter Zero - Hot Scenes NSFW Expansion",
+    "slug": "mask_city_chapter_zero_hot_scenes_nsfw_expansion",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/mask_city_chapter_zero_hot_scenes_nsfw_expansion",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Causal Loop",
     "slug": "causal_loop",
     "platform": "GOG",
@@ -298,25 +320,13 @@
     "freeType": "permanent"
   },
   {
-    "title": "Titanium Court Soundtrack",
-    "slug": "titanium_court_soundtrack",
-    "platform": "GOG",
+    "title": "Trees Hate You (demo)",
+    "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/titanium_court_soundtrack",
+    "url": "https://tykenn.itch.io/trees-hate-you",
     "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Titanium Court with a Side of Soundtrack",
-    "slug": "titanium_court_with_a_side_of_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/titanium_court_with_a_side_of_soundtrack",
-    "image": "",
-    "source": "GOG Official API",
+    "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
@@ -325,16 +335,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://oneflowman.itch.io/67-minutes-in-heaven",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Trees Hate You (demo)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://tykenn.itch.io/trees-hate-you",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -360,31 +360,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Death Loop [A Danganronpa-inspired Game]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://hopefullight.itch.io/time-traveler",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "The Freak Circus",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://garula.itch.io/the-freak-circus",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Twilight Observer",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://whitescarstudio.itch.io/to",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -400,21 +380,31 @@
     "freeType": "permanent"
   },
   {
-    "title": "Signal Garden",
+    "title": "Twilight Observer",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://kenforest.itch.io/signal-garden",
+    "url": "https://whitescarstudio.itch.io/to",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Where the Visual Novel",
+    "title": "Death Loop [A Danganronpa-inspired Game]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://yeswhat.itch.io/where",
+    "url": "https://hopefullight.itch.io/time-traveler",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Signal Garden",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://kenforest.itch.io/signal-garden",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -440,6 +430,26 @@
     "freeType": "permanent"
   },
   {
+    "title": "Lurking Danger",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://farelas.itch.io/lurking-danger",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Bugscraper (Demo)",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://yolwoocle.itch.io/bugscraper",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Passenger 6",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -450,11 +460,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Escape Line Beta FULL-VERSION RELEASED",
+    "title": "Where the Visual Novel",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://momomoring.itch.io/escapeline",
+    "url": "https://yeswhat.itch.io/where",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -480,61 +490,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "A Date with Death 2: REMNANTS",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://twoandahalfstudios.itch.io/a-date-with-death-2-remnants",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Cult of PiN",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://kennymakesgames.itch.io/pin",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "14 Days With You [DEMO]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://cutiesai.itch.io/14dayswithyou",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Knee Deep! [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://comfortkuma.itch.io/knee-deep",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Lighthouse",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://digital-mosaic-games.itch.io/the-lighthouse",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "TOUCHSTARVED: A Dark Romance Visual Novel",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://redspringstudio.itch.io/touchstarved",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -550,11 +510,51 @@
     "freeType": "permanent"
   },
   {
-    "title": "Lurking Danger",
+    "title": "Knee Deep! [DEMO]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://farelas.itch.io/lurking-danger",
+    "url": "https://comfortkuma.itch.io/knee-deep",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Escape Line Beta FULL-VERSION RELEASED",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://momomoring.itch.io/escapeline",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "TOUCHSTARVED: A Dark Romance Visual Novel",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://redspringstudio.itch.io/touchstarved",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Dampftraum",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://jitsukoan.itch.io/dampftraum",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Online Obsession",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://sourmiiiilk.itch.io/online-obsession",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
