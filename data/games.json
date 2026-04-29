@@ -16,6 +16,14 @@
     "image": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg"
   },
   {
+    "title": "Eternal Threads",
+    "platform": "Epic Games",
+    "originalPrice": "$19.99",
+    "endDate": "2026-06-11T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/eternal-threads-197169",
+    "image": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg"
+  },
+  {
     "title": "Ghostrunner 2",
     "platform": "Epic Games",
     "originalPrice": "$39.99",
@@ -35,7 +43,7 @@
     "title": "LISA: The Definitive Edition",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-06-11T15:00:00.000Z",
+    "endDate": "2026-10-01T05:59:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
     "image": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5"
   },
@@ -199,6 +207,39 @@
     "freeType": "permanent"
   },
   {
+    "title": "Magin: The Rat Project Stories",
+    "slug": "magin_the_rat_project_stories",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/magin_the_rat_project_stories",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Magin: The Rat Project Stories - Essence Edition",
+    "slug": "magin_the_rat_project_stories_essence_edition",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/magin_the_rat_project_stories_essence_edition",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Magin: The Rat Project Stories - Supporter Pack",
+    "slug": "magin_the_rat_project_stories_supporter_pack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/magin_the_rat_project_stories_supporter_pack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Elementallis",
     "slug": "elementallis",
     "platform": "GOG",
@@ -282,39 +323,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/kumitantei_oldschool_slaughter",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Kumitantei: Old-School Slaughter Original Soundtrack",
-    "slug": "kumitantei_oldschool_slaughter_original_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/kumitantei_oldschool_slaughter_original_soundtrack",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Liz and Rose’s Alchemy Factory",
-    "slug": "liz_and_roses_alchemy_factory",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/liz_and_roses_alchemy_factory",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Liz and Rose’s Alchemy Factory UNRATED",
-    "slug": "liz_and_roses_alchemy_factory_unrated",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/liz_and_roses_alchemy_factory_unrated",
     "image": "",
     "source": "GOG Official API",
     "freeType": "permanent"
