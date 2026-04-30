@@ -5,15 +5,7 @@
     "originalPrice": "0",
     "endDate": "2026-05-07T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
-    "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1vv9i.png"
-  },
-  {
-    "title": "DOOMBLADE",
-    "platform": "Epic Games",
-    "originalPrice": "$14.99",
-    "endDate": "2026-04-30T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/doomblade-afdf9a",
-    "image": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg"
+    "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1xeuq.png"
   },
   {
     "title": "Eternal Threads",
@@ -43,9 +35,17 @@
     "title": "LISA: The Definitive Edition",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-06-11T15:00:00.000Z",
+    "endDate": "2026-10-01T05:59:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
     "image": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5"
+  },
+  {
+    "title": "Arranger: A Role-Puzzling Adventure",
+    "platform": "Epic Games",
+    "originalPrice": "$19.99",
+    "endDate": "2026-05-14T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7",
+    "image": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-17mu3.jpg"
   },
   {
     "title": "Castlevania Anniversary Collection",
@@ -64,6 +64,14 @@
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
   {
+    "title": "Trash Goblin",
+    "platform": "Epic Games",
+    "originalPrice": "$19.99",
+    "endDate": "2026-05-14T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7",
+    "image": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png"
+  },
+  {
     "title": "Truxton Extreme",
     "slug": "truxton_extreme",
     "platform": "GOG",
@@ -76,14 +84,14 @@
   },
   {
     "title": "Frostpunk 2: Breach of Trust",
-    "slug": "frostpunk_2_dlc_2",
+    "slug": "frostpunk_2_breach_of_trust",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/frostpunk_2_dlc_2",
+    "url": "https://www.gog.com/en/game/frostpunk_2_breach_of_trust",
     "image": "",
     "source": "GOG Official API",
-    "freeType": "permanent"
+    "freeType": "limited"
   },
   {
     "title": "R-Type Tactics I • II Cosmos",
@@ -174,6 +182,28 @@
     "freeType": "permanent"
   },
   {
+    "title": "Uncle Lee’s Cookbook: Five Recipes for Disaster",
+    "slug": "uncle_lees_cookbook_five_recipes_for_disaster",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/uncle_lees_cookbook_five_recipes_for_disaster",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Battlestar Galactica: Scattered Hopes",
+    "slug": "battlestar_galactica_scattered_hopes",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/battlestar_galactica_scattered_hopes",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Songs of Silence - Crownless King Expansion",
     "slug": "songs_of_silence_crownless_king_expansion",
     "platform": "GOG",
@@ -196,6 +226,17 @@
     "freeType": "permanent"
   },
   {
+    "title": "Citadel Remonstered",
+    "slug": "citadel_remonstered",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/citadel_remonstered",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Forbidden Solitaire",
     "slug": "forbidden_solitaire",
     "platform": "GOG",
@@ -207,124 +248,91 @@
     "freeType": "permanent"
   },
   {
-    "title": "Magin: The Rat Project Stories",
-    "slug": "magin_the_rat_project_stories",
+    "title": "Formula Legends: Formula E - Electric Evolution",
+    "slug": "formula_legends_formula_e_electric_evolution",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/magin_the_rat_project_stories",
+    "url": "https://www.gog.com/en/game/formula_legends_formula_e_electric_evolution",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Magin: The Rat Project Stories - Essence Edition",
-    "slug": "magin_the_rat_project_stories_essence_edition",
+    "title": "MaSzyna: LK197 Strzebiń - Woźniki Śląskie",
+    "slug": "maszyna_lk197_strzebin_wozniki_slaskie",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/magin_the_rat_project_stories_essence_edition",
+    "url": "https://www.gog.com/en/game/maszyna_lk197_strzebin_wozniki_slaskie",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Magin: The Rat Project Stories - Supporter Pack",
-    "slug": "magin_the_rat_project_stories_supporter_pack",
+    "title": "Sengoku Dynasty - Sakura Edition",
+    "slug": "sengoku_dynasty_sakura_edition",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/magin_the_rat_project_stories_supporter_pack",
+    "url": "https://www.gog.com/en/game/sengoku_dynasty_sakura_edition",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Elementallis",
-    "slug": "elementallis",
+    "title": "Sengoku Dynasty - Sakura Pack",
+    "slug": "sengoku_dynasty_sakura_pack",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/elementallis",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Last Gas Station",
-    "slug": "the_last_gas_station",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_last_gas_station",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Last Gas Station - Original Soundtrack",
-    "slug": "the_last_gas_station_original_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_last_gas_station_original_soundtrack",
+    "url": "https://www.gog.com/en/game/sengoku_dynasty_sakura_pack",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Astro Burn",
-    "slug": "astro_burn",
+    "title": "The Coma 3: Bloodlines - Artbook",
+    "slug": "the_coma_3_bloodlines_artbook",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/astro_burn",
+    "url": "https://www.gog.com/en/game/the_coma_3_bloodlines_artbook",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Mask City: Chapter Zero",
-    "slug": "mask_city_chapter_zero",
+    "title": "The Coma 3: Bloodlines - Autumn Girl Skin",
+    "slug": "the_coma_3_bloodlines_autumn_girl_skin",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/mask_city_chapter_zero",
+    "url": "https://www.gog.com/en/game/the_coma_3_bloodlines_autumn_girl_skin",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Mask City: Chapter Zero - Hot Scenes NSFW Expansion",
-    "slug": "mask_city_chapter_zero_hot_scenes_nsfw_expansion",
+    "title": "The Coma 3: Bloodlines - Daughter of a Millionaire Skin",
+    "slug": "the_coma_3_bloodlines_daughter_of_a_millionaire_skin",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/mask_city_chapter_zero_hot_scenes_nsfw_expansion",
+    "url": "https://www.gog.com/en/game/the_coma_3_bloodlines_daughter_of_a_millionaire_skin",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Causal Loop",
-    "slug": "causal_loop",
+    "title": "The Coma 3: Bloodlines - Deluxe Edition",
+    "slug": "the_coma_3_bloodlines_deluxe_edition",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/causal_loop",
+    "url": "https://www.gog.com/en/game/the_coma_3_bloodlines_deluxe_edition",
     "image": "",
     "source": "GOG Official API",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Kumitantei: Old-School Slaughter",
-    "slug": "kumitantei_oldschool_slaughter",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/kumitantei_oldschool_slaughter",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
+    "freeType": "limited"
   }
 ]
