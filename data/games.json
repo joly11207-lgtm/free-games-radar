@@ -1,13 +1,5 @@
 [
   {
-    "title": "Firestone Online Idle RPG",
-    "platform": "Epic Games",
-    "originalPrice": "0",
-    "endDate": "2026-05-07T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
-    "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1xeuq.png"
-  },
-  {
     "title": "Eternal Threads",
     "platform": "Epic Games",
     "originalPrice": "$19.99",
@@ -22,14 +14,6 @@
     "endDate": "2026-06-11T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/ghostrunner-2",
     "image": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba"
-  },
-  {
-    "title": "Oddsparks: An Automation Adventure",
-    "platform": "Epic Games",
-    "originalPrice": "$29.99",
-    "endDate": "2026-05-07T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
-    "image": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png"
   },
   {
     "title": "LISA: The Definitive Edition",
@@ -70,6 +54,22 @@
     "endDate": "2026-05-14T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7",
     "image": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png"
+  },
+  {
+    "title": "Mystery Game 2",
+    "platform": "Epic Games",
+    "originalPrice": "0",
+    "endDate": "2026-05-21T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/[]",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1"
+  },
+  {
+    "title": "Mystery Game 1",
+    "platform": "Epic Games",
+    "originalPrice": "0",
+    "endDate": "2026-05-21T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/[]",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1"
   },
   {
     "title": "Truxton Extreme",
@@ -136,6 +136,28 @@
     "image": "",
     "source": "GOG Official API",
     "freeType": "permanent"
+  },
+  {
+    "title": "Blood West: Scavengers",
+    "slug": "blood_west_scavengers",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/blood_west_scavengers",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Nordic Ashes: Twilight of Yggdrasil",
+    "slug": "nordic_ashes_twilight_of_yggdrasil",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/nordic_ashes_twilight_of_yggdrasil",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
   },
   {
     "title": "Bubsy 4D",
@@ -215,6 +237,83 @@
     "freeType": "limited"
   },
   {
+    "title": "B.E.S.T 2",
+    "slug": "best_2",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/best_2",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "B.E.S.T 2 Walkthrough Mod",
+    "slug": "best_2_walkthrough_mod",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/best_2_walkthrough_mod",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "B.E.S.T Collection",
+    "slug": "best_collection",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/best_collection",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Brigador Killers Demo",
+    "slug": "brigador_killers_demo",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/brigador_killers_demo",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Rain World Soundtrack - Alphas, Gems, and Junk",
+    "slug": "rain_world_soundtrack_alphas_gems_and_junk",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/rain_world_soundtrack_alphas_gems_and_junk",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Rain World Soundtrack - Ambients and Instrumentals",
+    "slug": "rain_world_soundtrack_ambients_and_instrumentals",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/rain_world_soundtrack_ambients_and_instrumentals",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Rain World Soundtrack - Songs and Rhythms",
+    "slug": "rain_world_soundtrack_songs_and_rhythms",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/rain_world_soundtrack_songs_and_rhythms",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Songs of Silence - Crownless King Expansion",
     "slug": "songs_of_silence_crownless_king_expansion",
     "platform": "GOG",
@@ -235,344 +334,5 @@
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
-  },
-  {
-    "title": "RealRTCW - Cursed Sands",
-    "slug": "realrtcw_cursed_sands",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/realrtcw_cursed_sands",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "MOTORSLICE",
-    "slug": "motorslice",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/motorslice",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Citadel Remonstered",
-    "slug": "citadel_remonstered",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/citadel_remonstered",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Forbidden Solitaire",
-    "slug": "forbidden_solitaire",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/forbidden_solitaire",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Formula Legends: Formula E - Electric Evolution",
-    "slug": "formula_legends_formula_e_electric_evolution",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/formula_legends_formula_e_electric_evolution",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "MaSzyna: LK197 Strzebiń - Woźniki Śląskie",
-    "slug": "maszyna_lk197_strzebin_wozniki_slaskie",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/maszyna_lk197_strzebin_wozniki_slaskie",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Sengoku Dynasty - Sakura Edition",
-    "slug": "sengoku_dynasty_sakura_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/sengoku_dynasty_sakura_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Sengoku Dynasty - Sakura Pack",
-    "slug": "sengoku_dynasty_sakura_pack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/sengoku_dynasty_sakura_pack",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Coma 3: Bloodlines - Artbook",
-    "slug": "the_coma_3_bloodlines_artbook",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_coma_3_bloodlines_artbook",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Late Pizza Delivery",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://bubu07.itch.io/late-pizza-delivery",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Trees Hate You (demo)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://tykenn.itch.io/trees-hate-you",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Slugman: Chromodoris Willani (DEMO)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://purpxlity-studio.itch.io/the-slugman-chromodoris-willani",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Death Loop [A Danganronpa-inspired Game]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://hopefullight.itch.io/time-traveler",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "How to date a Sleep Paralysis Demon(Demo)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://sfour-s4.itch.io/how-to-date-a-sleep-paralysis-demon",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Soul Date",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://c0rew.itch.io/souldate",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "67 Minutes in Heaven",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://oneflowman.itch.io/67-minutes-in-heaven",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "TheButcher",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://takroni.itch.io/thebutcher",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Orangepeel, Onionskin",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://godaughtr.itch.io/orangepeel-onionskin",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Twilight Observer",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://whitescarstudio.itch.io/to",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Yes, I&#039;m alone.",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mourners.itch.io/yes-im-alone",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Bloom [ALL ROUTES]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://nightlightwrks.itch.io/bloom",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "FATHER | Demo",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://wetboxteam.itch.io/father",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Small Mouse Big House",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://polypaw.itch.io/small-mouse-big-house",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Sweet Valentine Chocolatier (COMPLETE)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://bigmamafatcat.itch.io/sweet-valentine-chocolatier",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Freak Circus",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://garula.itch.io/the-freak-circus",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Red Pearls of Borneo",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://bushmonkey.itch.io/the-red-pearls-of-borneo",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Solar Sandbox",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://totoriel.itch.io/solarsandbox",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Wrong Floor",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://n4ba.itch.io/wrong-floor",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Don&#039;t eat the cashier!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://miloff.itch.io/dont-eat-the-cashier",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Archives of Trevosa",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://jamwitch.itch.io/trevosa",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Smiley Dusty",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://polypaw.itch.io/smiley-dusty",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "COBB CAN MOVE",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://abho.itch.io/cobb-can-move",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
   }
 ]
