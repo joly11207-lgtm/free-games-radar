@@ -116,6 +116,17 @@
     "freeType": "permanent"
   },
   {
+    "title": "Stellaris: Nomads",
+    "slug": "stellaris_nomads",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/stellaris_nomads",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Gothic 1 Remake",
     "slug": "gothic_1_remake",
     "platform": "GOG",
@@ -237,6 +248,28 @@
     "freeType": "limited"
   },
   {
+    "title": "Stellaris: Anniversary Edition",
+    "slug": "stellaris_anniversary_edition",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/stellaris_anniversary_edition",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "The Golden Caravan Demo",
+    "slug": "the_golden_caravan_demo",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_golden_caravan_demo",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "B.E.S.T 2",
     "slug": "best_2",
     "platform": "GOG",
@@ -298,39 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/rain_world_soundtrack_ambients_and_instrumentals",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Rain World Soundtrack - Songs and Rhythms",
-    "slug": "rain_world_soundtrack_songs_and_rhythms",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/rain_world_soundtrack_songs_and_rhythms",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Songs of Silence - Crownless King Expansion",
-    "slug": "songs_of_silence_crownless_king_expansion",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/songs_of_silence_crownless_king_expansion",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Botlings Demo",
-    "slug": "botlings_demo",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/botlings_demo",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
