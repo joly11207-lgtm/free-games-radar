@@ -226,6 +226,28 @@
     "freeType": "permanent"
   },
   {
+    "title": "Age of Wonders 4: Starter Edition",
+    "slug": "age_of_wonders_4_starter_edition",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/age_of_wonders_4_starter_edition",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Tennis Manager 26",
+    "slug": "tennis_manager_26",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/tennis_manager_26",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Uncle Lee’s Cookbook: Five Recipes for Disaster",
     "slug": "uncle_lees_cookbook_five_recipes_for_disaster",
     "platform": "GOG",
@@ -309,28 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/brigador_killers_demo",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Rain World Soundtrack - Alphas, Gems, and Junk",
-    "slug": "rain_world_soundtrack_alphas_gems_and_junk",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/rain_world_soundtrack_alphas_gems_and_junk",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Rain World Soundtrack - Ambients and Instrumentals",
-    "slug": "rain_world_soundtrack_ambients_and_instrumentals",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/rain_world_soundtrack_ambients_and_instrumentals",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
