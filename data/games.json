@@ -366,21 +366,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "The One Behind You",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://santiago-garcia.itch.io/the-one-behind-you",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Psalm 2 DEMO",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://notexq.itch.io/psalm-2",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The One Behind You",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://santiago-garcia.itch.io/the-one-behind-you",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -416,16 +416,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Yes, I&#039;m alone 2.",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mourners.itch.io/yes-im-alone-2",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Death Loop [A Danganronpa-inspired Game]",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -436,11 +426,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "The Freak Circus",
+    "title": "Yes, I&#039;m alone 2.",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://garula.itch.io/the-freak-circus",
+    "url": "https://mourners.itch.io/yes-im-alone-2",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -456,11 +446,41 @@
     "freeType": "permanent"
   },
   {
+    "title": "The Freak Circus",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "God is Dead &amp; I&#039;m Starving",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://rinucomics.itch.io/god-is-dead-im-starving",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Under Heaven Or Hell [DEMO]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://moonlustgames.itch.io/underheavenorhell",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Interact With Me!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://tomyself.itch.io/interact-with-me",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -476,31 +496,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "FATHER | Demo",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://wetboxteam.itch.io/father",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "&quot;Voices Of The Void&quot; Alpha",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://mrdrnose.itch.io/votv",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "BURIED BELOW",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://aurastudiosofficial.itch.io/buried-below",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -516,21 +516,31 @@
     "freeType": "permanent"
   },
   {
-    "title": "IDLE_DIRECTIVE",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://kevinfu510.itch.io/idle-directive",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Apex Sweeper",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://jpde.itch.io/apex-sweeper",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "BURIED BELOW",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://aurastudiosofficial.itch.io/buried-below",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "FATHER | Demo",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://wetboxteam.itch.io/father",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -546,31 +556,21 @@
     "freeType": "permanent"
   },
   {
+    "title": "Don&#039;t eat the cashier!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://miloff.itch.io/dont-eat-the-cashier",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "67 Minutes in Heaven",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://oneflowman.itch.io/67-minutes-in-heaven",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Cultivators Chronicles: Idle Wuxia",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://nor-pan.itch.io/cultivators-chronicles-idle-wuxia",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Hetalia: Lonely World",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://hallow-ghost.itch.io/hetalia-lonely-world",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
