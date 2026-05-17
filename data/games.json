@@ -336,21 +336,21 @@
     "freeType": "limited"
   },
   {
-    "title": "Late Pizza Delivery",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://bubu07.itch.io/late-pizza-delivery",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "CreepyDates",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://hahadit.itch.io/creepydates",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Psalm 2 DEMO",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://notexq.itch.io/psalm-2",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -366,11 +366,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Psalm 2 DEMO",
+    "title": "Late Pizza Delivery",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://notexq.itch.io/psalm-2",
+    "url": "https://bubu07.itch.io/late-pizza-delivery",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -396,16 +396,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Loving Decays [FULL GAME]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://linglyum.itch.io/loving-decays",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Twilight Observer",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -426,21 +416,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Yes, I&#039;m alone 2.",
+    "title": "Loving Decays [FULL GAME]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mourners.itch.io/yes-im-alone-2",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Hambagu Shop",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://miketendev.itch.io/the-hambagu-shop",
+    "url": "https://linglyum.itch.io/loving-decays",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -456,6 +436,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "The Hambagu Shop",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://miketendev.itch.io/the-hambagu-shop",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "God is Dead &amp; I&#039;m Starving",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -466,11 +456,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Under Heaven Or Hell [DEMO]",
+    "title": "Yes, I&#039;m alone 2.",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://moonlustgames.itch.io/underheavenorhell",
+    "url": "https://mourners.itch.io/yes-im-alone-2",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -486,11 +476,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "above eden",
+    "title": "にんじんおうこく！",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://seraph-engine.itch.io/above-eden",
+    "url": "https://donutshunter.itch.io/ninjin-oukoku",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -516,31 +506,21 @@
     "freeType": "permanent"
   },
   {
+    "title": "Under Heaven Or Hell [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://moonlustgames.itch.io/underheavenorhell",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Apex Sweeper",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://jpde.itch.io/apex-sweeper",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "BURIED BELOW",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://aurastudiosofficial.itch.io/buried-below",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "FATHER | Demo",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://wetboxteam.itch.io/father",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -556,21 +536,41 @@
     "freeType": "permanent"
   },
   {
-    "title": "Don&#039;t eat the cashier!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://miloff.itch.io/dont-eat-the-cashier",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "67 Minutes in Heaven",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://oneflowman.itch.io/67-minutes-in-heaven",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "14 Days With You [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Don&#039;t eat the cashier!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://detcc.itch.io/dont-eat-the-cashier",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "above eden",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://seraph-engine.itch.io/above-eden",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
