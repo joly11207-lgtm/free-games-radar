@@ -336,21 +336,21 @@
     "freeType": "limited"
   },
   {
-    "title": "CreepyDates",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://hahadit.itch.io/creepydates",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Psalm 2 DEMO",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://notexq.itch.io/psalm-2",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "CreepyDates",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://hahadit.itch.io/creepydates",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -386,21 +386,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Open House",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://grantrimi.itch.io/open-house",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Twilight Observer",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://whitescarstudio.itch.io/to",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Open House",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://grantrimi.itch.io/open-house",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -416,31 +416,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Loving Decays [FULL GAME]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://linglyum.itch.io/loving-decays",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "The Freak Circus",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://garula.itch.io/the-freak-circus",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Hambagu Shop",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://miketendev.itch.io/the-hambagu-shop",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -456,11 +436,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Yes, I&#039;m alone 2.",
+    "title": "Loving Decays [FULL GAME]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mourners.itch.io/yes-im-alone-2",
+    "url": "https://linglyum.itch.io/loving-decays",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Hambagu Shop",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://miketendev.itch.io/the-hambagu-shop",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -476,11 +466,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "にんじんおうこく！",
+    "title": "Yes, I&#039;m alone 2.",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://donutshunter.itch.io/ninjin-oukoku",
+    "url": "https://mourners.itch.io/yes-im-alone-2",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -491,6 +481,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://mrdrnose.itch.io/votv",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "にんじんおうこく！",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://donutshunter.itch.io/ninjin-oukoku",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -516,16 +516,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Apex Sweeper",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://jpde.itch.io/apex-sweeper",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "A Date with Death",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -536,11 +526,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "67 Minutes in Heaven",
+    "title": "Apex Sweeper",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://oneflowman.itch.io/67-minutes-in-heaven",
+    "url": "https://jpde.itch.io/apex-sweeper",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -561,6 +551,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://detcc.itch.io/dont-eat-the-cashier",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "67 Minutes in Heaven",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://oneflowman.itch.io/67-minutes-in-heaven",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
