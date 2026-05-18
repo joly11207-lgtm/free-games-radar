@@ -160,6 +160,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Mina the Hollower",
+    "slug": "mina_the_hollower",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/mina_the_hollower",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Nordic Ashes: Twilight of Yggdrasil",
     "slug": "nordic_ashes_twilight_of_yggdrasil",
     "platform": "GOG",
@@ -320,17 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/battlestar_galactica_scattered_hopes",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Stellaris: Anniversary Edition",
-    "slug": "stellaris_anniversary_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/stellaris_anniversary_edition",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
