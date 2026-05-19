@@ -237,6 +237,17 @@
     "freeType": "permanent"
   },
   {
+    "title": "THE ART OF: Corsairs - Battle of the Caribbean - Official Artbook",
+    "slug": "corsairs_battle_of_the_caribbean_official_artbook",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/corsairs_battle_of_the_caribbean_official_artbook",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Astral Ascent - Arven the Wolf Blade",
     "slug": "astral_ascent_arven_the_wolf_blade",
     "platform": "GOG",
@@ -320,17 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/uncle_lees_cookbook_five_recipes_for_disaster",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Battlestar Galactica: Scattered Hopes",
-    "slug": "battlestar_galactica_scattered_hopes",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/battlestar_galactica_scattered_hopes",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
