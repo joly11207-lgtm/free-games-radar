@@ -40,34 +40,34 @@
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
   {
-    "title": "Down in Bermuda",
-    "platform": "Epic Games",
-    "originalPrice": "0",
-    "endDate": "2026-05-28T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/down-in-bermuda",
-    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Offer_wide_2560x1440-a5d54568f32d4df2a0700c89b56f00ae"
-  },
-  {
-    "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-    "platform": "Epic Games",
-    "originalPrice": "0",
-    "endDate": "2026-05-28T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/tomb-raider-iiii-remastered-538640",
-    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Wide_2560x1440-70744ab05bab4e6784a6b206eef2a94c"
-  },
-  {
-    "title": "Mystery Game Week 22 Game 1",
+    "title": "LONESTAR",
     "platform": "Epic Games",
     "originalPrice": "0",
     "endDate": "2026-06-04T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/lonestar-83f143",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/lonestar-31p94_2560x1440-9abfcdf2bc7e4e66a7c181f9bcc7913a"
+  },
+  {
+    "title": "Calico",
+    "platform": "Epic Games",
+    "originalPrice": "0",
+    "endDate": "2026-06-04T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/calico",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_s2_2560x1440-09c1b30be094430b93b53d0ccc07b8f1"
+  },
+  {
+    "title": "Mystery Game Week 23 Game 2",
+    "platform": "Epic Games",
+    "originalPrice": "0",
+    "endDate": "2026-06-11T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/[]",
     "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1"
   },
   {
-    "title": "Mystery Game Week 22 Game 2",
+    "title": "Mystery Game Week 23 Game 1",
     "platform": "Epic Games",
     "originalPrice": "0",
-    "endDate": "2026-06-04T15:00:00.000Z",
+    "endDate": "2026-06-11T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/[]",
     "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1"
   },
@@ -204,6 +204,39 @@
     "freeType": "limited"
   },
   {
+    "title": "868-BACK",
+    "slug": "868back",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/868back",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Scale the Depths",
+    "slug": "scale_the_depths",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/scale_the_depths",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "The Big Hollow: 1982",
+    "slug": "the_big_hollow_1982",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_big_hollow_1982",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Duke Grabowski: Mighty Swashbuckler Artbook",
     "slug": "duke_grabowski_mighty_swashbuckler_artbook",
     "platform": "GOG",
@@ -303,36 +336,243 @@
     "freeType": "permanent"
   },
   {
-    "title": "Coffee Talk Tokyo",
-    "slug": "coffee_talk_tokyo",
-    "platform": "GOG",
+    "title": "TAKE CARE OF THE DOG",
+    "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/coffee_talk_tokyo",
+    "url": "https://bodinhe.itch.io/takecareofthedog",
     "image": "",
-    "source": "GOG Official API",
+    "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Disgraced State Agents Bundle",
-    "slug": "disgraced_state_agents_bundle",
-    "platform": "GOG",
+    "title": "COBB CAN MOVE",
+    "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/disgraced_state_agents_bundle",
+    "url": "https://abho.itch.io/cobb-can-move",
     "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
+    "source": "itch.io Official",
+    "freeType": "permanent"
   },
   {
-    "title": "Holy Valkyrie ExS-TIA F Parallel Episode 2: Reunion",
-    "slug": "holy_valkyrie_exstia_f",
-    "platform": "GOG",
+    "title": "Psalm 2 DEMO",
+    "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/holy_valkyrie_exstia_f",
+    "url": "https://notexq.itch.io/psalm-2",
     "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Late Pizza Delivery",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://bubu07.itch.io/late-pizza-delivery",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Loom",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://danieloschepkov.itch.io/loom",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Sinkhole",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://solitarystudios.itch.io/the-sinkhole",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Twilight Observer",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://whitescarstudio.itch.io/to",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Freak Circus",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Paguroideo",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://areqreepy.itch.io/paguroideo",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Death Loop [A Danganronpa-inspired Game]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://hopefullight.itch.io/time-traveler",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mrdrnose.itch.io/votv",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Sovereign Tower",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://wildwits.itch.io/sovereign-tower",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Marketfield",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://pollikk-studios.itch.io/marketfield",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Cannone",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://ronyaib.itch.io/cannone",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "My Affection that Dies",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://4noki.itch.io/my-affection-that-dies",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "SKINATOR",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://glowtoxgames.itch.io/skinator",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The One Behind You",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://santiago-garcia.itch.io/the-one-behind-you",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Membrillo Hid My Socks",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://pulpaulaa.itch.io/membrillo-hid-my-socks",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Trees Hate You (demo)",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://tykenn.itch.io/trees-hate-you",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "CORRODE",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://iamderlencer.itch.io/corrode",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Mixology",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://nospillketchup.itch.io/mixology",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Don&#039;t eat the cashier!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://detcc.itch.io/dont-eat-the-cashier",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "A Date with Death",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "CreepyDates",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://hahadit.itch.io/creepydates",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
   }
 ]
