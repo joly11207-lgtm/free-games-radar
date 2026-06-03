@@ -94,6 +94,17 @@
     "freeType": "permanent"
   },
   {
+    "title": "Pit Panic",
+    "slug": "pit_panic",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/pit_panic",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Frostpunk 2: Breach of Trust",
     "slug": "frostpunk_2_breach_of_trust",
     "platform": "GOG",
@@ -171,12 +182,67 @@
     "freeType": "permanent"
   },
   {
+    "title": "Blood West: Gold Edition",
+    "slug": "blood_west_gold_edition",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/blood_west_gold_edition",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Blood West: Scavengers",
     "slug": "blood_west_scavengers",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/blood_west_scavengers",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "RAIDBORN - Spellcraft & Wizardry",
+    "slug": "raidborn_spellcraft_wizardry",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/raidborn_spellcraft_wizardry",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "RAIDBORN Premium Edition",
+    "slug": "raidborn_premium_edition",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/raidborn_premium_edition",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "RAIDBORN Ultimate Edition",
+    "slug": "raidborn_ultimate_edition",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/raidborn_ultimate_edition",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "WARNO - Nemesis #7 - State of Emergency",
+    "slug": "warno_nemesis_7_state_of_emergency",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/warno_nemesis_7_state_of_emergency",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -265,72 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/duke_grabowski_mighty_swashbuckler_artbook",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Duke Grabowski: Mighty Swashbuckler Deluxe",
-    "slug": "duke_grabowski_mighty_swashbuckler_deluxe",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/duke_grabowski_mighty_swashbuckler_deluxe",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Duke Grabowski: Mighty Swashbuckler Soundtrack",
-    "slug": "duke_grabowski_mighty_swashbuckler_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/duke_grabowski_mighty_swashbuckler_soundtrack",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Starship Troopers: Terran Command - The Eradicators",
-    "slug": "starship_troopers_terran_command_the_eradicators",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/starship_troopers_terran_command_the_eradicators",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Enter the Chronosphere",
-    "slug": "enter_the_chronosphere",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/enter_the_chronosphere",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Hive: Survival Mode",
-    "slug": "the_hive_survival_mode",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_hive_survival_mode",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Nordic Ashes: Twilight of Yggdrasil",
-    "slug": "nordic_ashes_twilight_of_yggdrasil",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/nordic_ashes_twilight_of_yggdrasil",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
