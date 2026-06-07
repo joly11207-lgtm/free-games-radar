@@ -105,6 +105,17 @@
     "freeType": "limited"
   },
   {
+    "title": "The Alters: Last Variable",
+    "slug": "the_alters_last_variable",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_alters_last_variable",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Frostpunk 2: Breach of Trust",
     "slug": "frostpunk_2_breach_of_trust",
     "platform": "GOG",
@@ -325,17 +336,6 @@
     "freeType": "limited"
   },
   {
-    "title": "The Big Hollow: 1982",
-    "slug": "the_big_hollow_1982",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_big_hollow_1982",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
     "title": "TAKE CARE OF THE DOG",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -361,6 +361,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://cattrigger.itch.io/carnivore",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Twilight Observer",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://whitescarstudio.itch.io/to",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -396,16 +406,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "COBB CAN MOVE",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://abho.itch.io/cobb-can-move",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Death Loop [A Danganronpa-inspired Game]",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -416,11 +416,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Twilight Observer",
+    "title": "COBB CAN MOVE",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://whitescarstudio.itch.io/to",
+    "url": "https://abho.itch.io/cobb-can-move",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -436,11 +436,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "MOTHER: Encore",
+    "title": "Sinner Maker",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mother-encore.itch.io/mother-encore",
+    "url": "https://sm-pantokrator.itch.io/sinner-maker",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Of Frost and Flowers",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://elseth.itch.io/of-frost-and-flowers",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -466,11 +476,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "JOB HUNTING 9000 DELUHX",
+    "title": "67 Minutes in Heaven",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://axetrax1.itch.io/job-hunting-9000-deluhx",
+    "url": "https://oneflowman.itch.io/67-minutes-in-heaven",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "MOTHER: Encore",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mother-encore.itch.io/mother-encore",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -481,6 +501,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://digital-arson.itch.io/vigil-in-the-mist",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "A Date with Death",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -506,31 +536,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "A Date with Death",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "14 Days With You [DEMO]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://cutiesai.itch.io/14dayswithyou",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Aftermath",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://apish-box-games.itch.io/the-aftermath",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -546,31 +556,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Sinner Maker",
+    "title": "JOB HUNTING 9000 DELUHX",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://sm-pantokrator.itch.io/sinner-maker",
+    "url": "https://axetrax1.itch.io/job-hunting-9000-deluhx",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "BLEEDING",
+    "title": "OVERD0SE [demo]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://depra.itch.io/bleeding",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Low Effort Romance : Complete Edition [Alpha Demo]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://azurextwilight.itch.io/low-effort-romance-complete-alpha",
+    "url": "https://mookichuu.itch.io/overdose",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
