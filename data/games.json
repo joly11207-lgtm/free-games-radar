@@ -376,16 +376,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Psalm 2 DEMO",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://notexq.itch.io/psalm-2",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Late Pizza Delivery",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -416,11 +406,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "COBB CAN MOVE",
+    "title": "Psalm 2 DEMO",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://abho.itch.io/cobb-can-move",
+    "url": "https://notexq.itch.io/psalm-2",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -431,6 +421,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "COBB CAN MOVE",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://abho.itch.io/cobb-can-move",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -456,16 +456,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Legendum",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://vadeum.itch.io/legendum",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "&quot;Voices Of The Void&quot; Alpha",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -486,11 +476,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "MOTHER: Encore",
+    "title": "Legendum",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mother-encore.itch.io/mother-encore",
+    "url": "https://vadeum.itch.io/legendum",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -501,6 +491,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://digital-arson.itch.io/vigil-in-the-mist",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "MOTHER: Encore",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mother-encore.itch.io/mother-encore",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -526,11 +526,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Hangin&#039; Off! - Teaser balance test 0.9.2",
+    "title": "OVERD0SE [demo]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://sk1ds.itch.io/hanginoff",
+    "url": "https://mookichuu.itch.io/overdose",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -546,31 +546,31 @@
     "freeType": "permanent"
   },
   {
+    "title": "Hangin&#039; Off! - Teaser balance test 0.9.2",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://sk1ds.itch.io/hanginoff",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Doki Doki Literature Club!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://teamsalvato.itch.io/ddlc",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Pegfinity - A colorful physics-based incremental",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://fragmentventures.itch.io/pegfinity-demo",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "JOB HUNTING 9000 DELUHX",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://axetrax1.itch.io/job-hunting-9000-deluhx",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "OVERD0SE [demo]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mookichuu.itch.io/overdose",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
