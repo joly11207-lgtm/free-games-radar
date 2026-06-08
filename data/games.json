@@ -160,17 +160,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "COPA CITY",
-    "slug": "copa_city",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/copa_city",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
-  },
-  {
     "title": "Stellaris: Nomads",
     "slug": "stellaris_nomads",
     "platform": "GOG",
@@ -336,6 +325,17 @@
     "freeType": "limited"
   },
   {
+    "title": "868-BACK",
+    "slug": "868back",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/868back",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "TAKE CARE OF THE DOG",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -406,6 +406,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "The Freak Circus",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Late Night Ice Cream",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -416,11 +426,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "The Freak Circus",
+    "title": "House of Petals",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://garula.itch.io/the-freak-circus",
+    "url": "https://littlesnakestudio.itch.io/houseofpetals",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -446,11 +456,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "House of Petals",
+    "title": "&quot;Voices Of The Void&quot; Alpha",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://littlesnakestudio.itch.io/houseofpetals",
+    "url": "https://mrdrnose.itch.io/votv",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -461,16 +471,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://elseth.itch.io/of-frost-and-flowers",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -496,21 +496,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Legendum",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://vadeum.itch.io/legendum",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "A Date with Death",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Legendum",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://vadeum.itch.io/legendum",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -536,16 +536,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Ambermoon.net",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://pyrdacor.itch.io/ambermoon",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Doki Doki Literature Club!",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -556,21 +546,31 @@
     "freeType": "permanent"
   },
   {
-    "title": "MOTHER: Encore",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mother-encore.itch.io/mother-encore",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Online Obsession",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://sourmiiiilk.itch.io/online-obsession",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Home Is Where He Is",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://echo0bat.itch.io/hiwhi",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Ambermoon.net",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://pyrdacor.itch.io/ambermoon",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
