@@ -83,6 +83,28 @@
     "freeType": "limited"
   },
   {
+    "title": "The Sinking City 2",
+    "slug": "the_sinking_city_2",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_sinking_city_2",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Defender of the Crown: The Legend Returns",
+    "slug": "defender_of_the_crown_the_legend_returns",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/defender_of_the_crown_the_legend_returns",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Truxton Extreme",
     "slug": "truxton_extreme",
     "platform": "GOG",
@@ -314,28 +336,6 @@
     "freeType": "limited"
   },
   {
-    "title": "868-BACK",
-    "slug": "868back",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/868back",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Scale the Depths",
-    "slug": "scale_the_depths",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/scale_the_depths",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
     "title": "TAKE CARE OF THE DOG",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -376,21 +376,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Late Pizza Delivery",
+    "title": "Psalm 2 DEMO",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://bubu07.itch.io/late-pizza-delivery",
+    "url": "https://notexq.itch.io/psalm-2",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Late Night Ice Cream",
+    "title": "Late Pizza Delivery",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://winabees.itch.io/late-night-ice-cream",
+    "url": "https://bubu07.itch.io/late-pizza-delivery",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -406,11 +406,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Psalm 2 DEMO",
+    "title": "Late Night Ice Cream",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://notexq.itch.io/psalm-2",
+    "url": "https://winabees.itch.io/late-night-ice-cream",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -426,6 +426,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "Sinner Maker (demo)",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://sm-pantokrator.itch.io/sinner-maker",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "COBB CAN MOVE",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -436,11 +446,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Sinner Maker",
+    "title": "House of Petals",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://sm-pantokrator.itch.io/sinner-maker",
+    "url": "https://littlesnakestudio.itch.io/houseofpetals",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -476,16 +486,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Legendum",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://vadeum.itch.io/legendum",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Vigil in the Mist",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -496,11 +496,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "MOTHER: Encore",
+    "title": "Legendum",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mother-encore.itch.io/mother-encore",
+    "url": "https://vadeum.itch.io/legendum",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -516,11 +516,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Ambermoon.net",
+    "title": "14 Days With You [DEMO]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://pyrdacor.itch.io/ambermoon",
+    "url": "https://cutiesai.itch.io/14dayswithyou",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -536,21 +536,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "14 Days With You [DEMO]",
+    "title": "Ambermoon.net",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://cutiesai.itch.io/14dayswithyou",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Hangin&#039; Off! - Teaser balance test 0.9.2",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://sk1ds.itch.io/hanginoff",
+    "url": "https://pyrdacor.itch.io/ambermoon",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -566,11 +556,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Pegfinity - A colorful physics-based incremental",
+    "title": "MOTHER: Encore",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://fragmentventures.itch.io/pegfinity-demo",
+    "url": "https://mother-encore.itch.io/mother-encore",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Online Obsession",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://sourmiiiilk.itch.io/online-obsession",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
