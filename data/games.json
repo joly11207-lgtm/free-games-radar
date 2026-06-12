@@ -243,6 +243,28 @@
     "freeType": "limited"
   },
   {
+    "title": "Mystic Courtesan Stories: Trainee Maria",
+    "slug": "mystic_courtesan_stories_trainee_maria",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/mystic_courtesan_stories_trainee_maria",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Mystic Courtesan Stories: Trainee Maria Original Soundtrack",
+    "slug": "mystic_courtesan_stories_trainee_maria_original_soundtrack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/mystic_courtesan_stories_trainee_maria_original_soundtrack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Gothic 1 Remake + Free Classic",
     "slug": "gothic_1_remake_free_classic",
     "platform": "GOG",
@@ -293,28 +315,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/raidborn_spellcraft_wizardry",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "RAIDBORN Premium Edition",
-    "slug": "raidborn_premium_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/raidborn_premium_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "RAIDBORN Ultimate Edition",
-    "slug": "raidborn_ultimate_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/raidborn_ultimate_edition",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
