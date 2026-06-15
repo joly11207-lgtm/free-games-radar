@@ -188,6 +188,28 @@
     "freeType": "limited"
   },
   {
+    "title": "Wingspan Bird Pack: British Birds",
+    "slug": "wingspan_bird_pack_british_birds",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/wingspan_bird_pack_british_birds",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Wingspan: Bird Packs Season Pass",
+    "slug": "wingspan_bird_packs_season_pass",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/wingspan_bird_packs_season_pass",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Aisle Survive Demo",
     "slug": "aisle_survive_demo",
     "platform": "GOG",
@@ -293,28 +315,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/blood_west_gold_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Blood West: Scavengers",
-    "slug": "blood_west_scavengers",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/blood_west_scavengers",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "RAIDBORN - Spellcraft & Wizardry",
-    "slug": "raidborn_spellcraft_wizardry",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/raidborn_spellcraft_wizardry",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
