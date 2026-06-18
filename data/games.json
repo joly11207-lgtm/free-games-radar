@@ -1,5 +1,13 @@
 [
   {
+    "title": "RollerCoaster Tycoon 3 Complete Edition",
+    "platform": "Epic Games",
+    "originalPrice": "$19.99",
+    "endDate": "2026-07-02T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition/home",
+    "image": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg"
+  },
+  {
     "title": "Citizen Sleeper",
     "platform": "Epic Games",
     "originalPrice": "$19.99",
@@ -46,22 +54,6 @@
     "endDate": "2026-07-30T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
     "image": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg"
-  },
-  {
-    "title": "The Ouroboros King",
-    "platform": "Epic Games",
-    "originalPrice": "$9.99",
-    "endDate": "2026-06-18T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547",
-    "image": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg"
-  },
-  {
-    "title": "Warhammer 40K Speed Freeks",
-    "platform": "Epic Games",
-    "originalPrice": "$19.99",
-    "endDate": "2026-06-18T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c",
-    "image": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg"
   },
   {
     "title": "Sleepytime Village",
@@ -119,6 +111,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Order Automatica",
+    "slug": "order_automatica",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/order_automatica",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Cornhole Hero",
     "slug": "cornhole_hero",
     "platform": "GOG",
@@ -163,6 +166,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Fogpiercer",
+    "slug": "fogpiercer",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/fogpiercer",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "The Alters: Last Variable",
     "slug": "the_alters_last_variable",
     "platform": "GOG",
@@ -194,6 +208,39 @@
     "image": "",
     "source": "GOG Official API",
     "freeType": "permanent"
+  },
+  {
+    "title": "R-Type Tactics I • II Cosmos - Digital Concept Art Card Set",
+    "slug": "rtype_tactics_i_ii_cosmos_digital_concept_art_card_set",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/rtype_tactics_i_ii_cosmos_digital_concept_art_card_set",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "R-Type Tactics I • II Cosmos - Digital Poster",
+    "slug": "rtype_tactics_i_ii_cosmos_digital_poster",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/rtype_tactics_i_ii_cosmos_digital_poster",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "R-Type Tactics I • II Cosmos - Digital Soundtrack",
+    "slug": "rtype_tactics_i_ii_cosmos_digital_soundtrack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/rtype_tactics_i_ii_cosmos_digital_soundtrack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
   },
   {
     "title": "Stellaris: Nomads",
@@ -271,61 +318,6 @@
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
-  },
-  {
-    "title": "Vampire: The Masquerade® - Bloodlines™ 2: The Flower & the Flame",
-    "slug": "vampire_the_masquerade_bloodlines_2_the_flower_the_flame",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/vampire_the_masquerade_bloodlines_2_the_flower_the_flame",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Atre: Dominance Wars",
-    "slug": "atre_dominance_wars",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/atre_dominance_wars",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Mystic Courtesan Stories: Trainee Maria",
-    "slug": "mystic_courtesan_stories_trainee_maria",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/mystic_courtesan_stories_trainee_maria",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Mystic Courtesan Stories: Trainee Maria Original Soundtrack",
-    "slug": "mystic_courtesan_stories_trainee_maria_original_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/mystic_courtesan_stories_trainee_maria_original_soundtrack",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Gothic 1 Remake",
-    "slug": "gothic_1_remake",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/gothic_1_remake",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "permanent"
   },
   {
     "title": "TAKE CARE OF THE DOG",
@@ -418,6 +410,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mrdrnose.itch.io/votv",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "COBB CAN MOVE",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -438,11 +440,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "title": "Parasomnia Verum 2 demo 🦜🍉",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
+    "url": "https://vidas-salavejus.itch.io/parasomnia-verum-2-demo",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -453,6 +455,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://funday-games.itch.io/the-margot-collapse",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Late Night Ice Cream",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://winabees.itch.io/late-night-ice-cream",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -478,21 +490,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Parasomnia Verum 2 demo 🦜🍉",
+    "title": "Slide in the woods",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://vidas-salavejus.itch.io/parasomnia-verum-2-demo",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Late Night Ice Cream",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://winabees.itch.io/late-night-ice-cream",
+    "url": "https://jonnys-games.itch.io/slide-in-the-woods",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -533,16 +535,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://echo0bat.itch.io/hiwhi",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Slide in the woods",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://jonnys-games.itch.io/slide-in-the-woods",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
