@@ -199,6 +199,39 @@
     "freeType": "limited"
   },
   {
+    "title": "Castles and Manors - Escape Room Bundle",
+    "slug": "castles_and_manors_escape_room_bundle",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/castles_and_manors_escape_room_bundle",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "mc2games Escape Room Marathon",
+    "slug": "mc2games_escape_room_bundle",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/mc2games_escape_room_bundle",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Space Grunts: Chrono Shard",
+    "slug": "space_grunts_chrono_shard",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/space_grunts_chrono_shard",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "R-Type Tactics I • II Cosmos",
     "slug": "rtype_tactics_i_ii_cosmos",
     "platform": "GOG",
@@ -282,39 +315,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/ghost_at_dawn_definitive_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Aisle Survive Demo",
-    "slug": "aisle_survive_demo",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/aisle_survive_demo",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "SPORTAL",
-    "slug": "sportal",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/sportal",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Warhammer 40,000: Rogue Trader - The Infinite Museion",
-    "slug": "warhammer_40000_rogue_trader_the_infinite_museion",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/warhammer_40000_rogue_trader_the_infinite_museion",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
