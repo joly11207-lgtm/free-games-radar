@@ -8,14 +8,6 @@
     "image": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg"
   },
   {
-    "title": "Citizen Sleeper",
-    "platform": "Epic Games",
-    "originalPrice": "$19.99",
-    "endDate": "2026-06-25T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/citizen-sleeper-944858",
-    "image": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-xudwg.jpg"
-  },
-  {
     "title": "Eternal Threads",
     "platform": "Epic Games",
     "originalPrice": "$19.99",
@@ -30,14 +22,6 @@
     "endDate": "2026-07-30T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/ghostrunner-2",
     "image": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba"
-  },
-  {
-    "title": "ROBOBEAT",
-    "platform": "Epic Games",
-    "originalPrice": "$19.99",
-    "endDate": "2026-06-25T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/robobeat-5f084b",
-    "image": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-1ojda.png"
   },
   {
     "title": "LISA: The Definitive Edition",
@@ -62,6 +46,22 @@
     "endDate": "2026-07-30T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
     "image": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg"
+  },
+  {
+    "title": "River City Girls 2",
+    "platform": "Epic Games",
+    "originalPrice": "$39.99",
+    "endDate": "2026-07-09T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a",
+    "image": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png"
+  },
+  {
+    "title": "I Have No Mouth, and I Must Scream",
+    "platform": "Epic Games",
+    "originalPrice": "$9.99",
+    "endDate": "2026-07-09T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+    "image": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png"
   },
   {
     "title": "Sleepytime Village",
@@ -92,6 +92,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/defender_of_the_crown_the_legend_returns",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Sandustry",
+    "slug": "sandustry",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/sandustry",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -196,6 +207,28 @@
     "freeType": "limited"
   },
   {
+    "title": "Formula Legends: Historic Tracks Pack",
+    "slug": "formula_legends_historic_tracks_pack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/formula_legends_historic_tracks_pack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "JDM: American Classics",
+    "slug": "jdm_american_classics",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/jdm_american_classics",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Heavenly Island",
     "slug": "heavenly_island",
     "platform": "GOG",
@@ -290,39 +323,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/frostpunk_2_breach_of_trust",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Castles and Manors - Escape Room Bundle",
-    "slug": "castles_and_manors_escape_room_bundle",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/castles_and_manors_escape_room_bundle",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "mc2games Escape Room Marathon",
-    "slug": "mc2games_escape_room_bundle",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/mc2games_escape_room_bundle",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Space Grunts: Chrono Shard",
-    "slug": "space_grunts_chrono_shard",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/space_grunts_chrono_shard",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
