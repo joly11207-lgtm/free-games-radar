@@ -207,6 +207,28 @@
     "freeType": "limited"
   },
   {
+    "title": "Harvest Moon: The Winds of Anthos Complete",
+    "slug": "harvest_moon_the_winds_of_anthos_complete",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/harvest_moon_the_winds_of_anthos_complete",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Wild West Supermarket Simulator",
+    "slug": "wild_west_supermarket_simulator",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/wild_west_supermarket_simulator",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Alaloth: Champions of The Four Kingdoms - Luminous Redeemer Set",
     "slug": "alaloth_champions_of_the_four_kingdoms_luminous_redeemer_set",
     "platform": "GOG",
@@ -301,28 +323,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/iron_sky_invasion_the_second_fleet",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Iron Sky: Invasion UHD Commander Edition",
-    "slug": "iron_sky_invasion_uhd_commander_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/iron_sky_invasion_uhd_commander_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Iron Sky: Invasion UHD Director's Cut",
-    "slug": "iron_sky_invasion",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/iron_sky_invasion",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
