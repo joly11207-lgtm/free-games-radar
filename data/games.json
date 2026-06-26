@@ -207,6 +207,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Alaloth: Champions of The Four Kingdoms - Luminous Redeemer Set",
+    "slug": "alaloth_champions_of_the_four_kingdoms_luminous_redeemer_set",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/alaloth_champions_of_the_four_kingdoms_luminous_redeemer_set",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Formula Legends: Historic Tracks Pack",
     "slug": "formula_legends_historic_tracks_pack",
     "platform": "GOG",
@@ -312,17 +323,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/iron_sky_invasion",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Frostpunk 2: Breach of Trust",
-    "slug": "frostpunk_2_breach_of_trust",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/frostpunk_2_breach_of_trust",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
