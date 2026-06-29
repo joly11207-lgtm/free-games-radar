@@ -207,6 +207,28 @@
     "freeType": "limited"
   },
   {
+    "title": "R-Type Tactics I • II Cosmos - Unit Color Variation Fighter Pack",
+    "slug": "rtype_tactics_iii_cosmos_unit_color_variation_fighter_pack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/rtype_tactics_iii_cosmos_unit_color_variation_fighter_pack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "R-Type Tactics I • II Cosmos - Unit: ARROW-HEAD G (GRA Ver.)",
+    "slug": "rtype_tactics_iii_cosmos_unit_arrowhead_g_gra_ver",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/rtype_tactics_iii_cosmos_unit_arrowhead_g_gra_ver",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Harvest Moon: The Winds of Anthos Complete",
     "slug": "harvest_moon_the_winds_of_anthos_complete",
     "platform": "GOG",
@@ -306,28 +328,6 @@
     "freeType": "limited"
   },
   {
-    "title": "Iron Sky: Invasion Meteorblitzkrieg",
-    "slug": "iron_sky_invasion_meteorblitzkrieg",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/iron_sky_invasion_meteorblitzkrieg",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Iron Sky: Invasion The Second Fleet",
-    "slug": "iron_sky_invasion_the_second_fleet",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/iron_sky_invasion_the_second_fleet",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
     "title": "Parasomnia Verum 2 demo 🦜🍉",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -388,16 +388,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Last Kid on the Bus",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://shawcat.itch.io/last-kid-on-the-bus",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Death Loop [A Danganronpa-inspired Game]",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -408,21 +398,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Late Pizza Delivery",
+    "title": "Last Kid on the Bus",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://bubu07.itch.io/late-pizza-delivery",
+    "url": "https://shawcat.itch.io/last-kid-on-the-bus",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "TAKE CARE OF THE DOG",
+    "title": "Late Pizza Delivery",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://bodinhe.itch.io/takecareofthedog",
+    "url": "https://bubu07.itch.io/late-pizza-delivery",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -443,6 +433,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "TAKE CARE OF THE DOG",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://bodinhe.itch.io/takecareofthedog",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -498,6 +498,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "14 Days With You [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Vigil in the Mist",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -528,11 +538,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "14 Days With You [DEMO]",
+    "title": "Doki Doki Literature Club!",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "url": "https://teamsalvato.itch.io/ddlc",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -548,21 +558,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Doki Doki Literature Club!",
+    "title": "CreepyDates",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://teamsalvato.itch.io/ddlc",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Dressmaker",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://elyaradine.itch.io/dressmaker",
+    "url": "https://hahadit.itch.io/creepydates",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
