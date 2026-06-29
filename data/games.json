@@ -378,6 +378,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "Twilight Observer",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://whitescarstudio.itch.io/to",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Last Kid on the Bus",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -398,16 +408,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Twilight Observer",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://whitescarstudio.itch.io/to",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Late Pizza Delivery",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -418,21 +418,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "AMEN: The Quiet Exodus DEMO",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://snezochek.itch.io/amen-the-quiet-exodus",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "TAKE CARE OF THE DOG",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://bodinhe.itch.io/takecareofthedog",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "AMEN: The Quiet Exodus DEMO",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://snezochek.itch.io/amen-the-quiet-exodus",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -478,16 +478,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "A Date with Death",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Among The Leaves",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -498,41 +488,21 @@
     "freeType": "permanent"
   },
   {
+    "title": "A Date with Death",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Vigil in the Mist",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://digital-arson.itch.io/vigil-in-the-mist",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "14 Days With You [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://cutiesai.itch.io/14dayswithyou",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "AGGRO: Thaumiel Mercenaries",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://aplovestudio.itch.io/aggro",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Doki Doki Literature Club!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://teamsalvato.itch.io/ddlc",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -558,11 +528,41 @@
     "freeType": "permanent"
   },
   {
+    "title": "14 Days With You [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Soul Date",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://c0rew.itch.io/souldate",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Doki Doki Literature Club!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://teamsalvato.itch.io/ddlc",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Dressmaker",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://elyaradine.itch.io/dressmaker",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
