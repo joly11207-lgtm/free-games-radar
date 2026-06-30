@@ -141,6 +141,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Terra Invicta - Dark Skies",
+    "slug": "terra_invicta_dark_skies",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/terra_invicta_dark_skies",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Cornhole Hero",
     "slug": "cornhole_hero",
     "platform": "GOG",
@@ -317,17 +328,6 @@
     "freeType": "limited"
   },
   {
-    "title": "Iron Sky: Invasion Extended Soundtrack",
-    "slug": "iron_sky_invasion_extended_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/iron_sky_invasion_extended_soundtrack",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
     "title": "SEWER CALL",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -388,21 +388,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Last Kid on the Bus",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://shawcat.itch.io/last-kid-on-the-bus",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Twilight Observer",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://whitescarstudio.itch.io/to",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Last Kid on the Bus",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://shawcat.itch.io/last-kid-on-the-bus",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -428,6 +428,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mrdrnose.itch.io/votv",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "AMEN: The Quiet Exodus DEMO",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -448,11 +458,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "title": "Among The Leaves",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
+    "url": "https://gummygrenadegames.itch.io/among-the-leaves",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -463,16 +473,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://elseth.itch.io/recurse",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Among The Leaves",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://gummygrenadegames.itch.io/among-the-leaves",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -508,11 +508,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Late Night Duty DEMO",
+    "title": "Doki Doki Literature Club!",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://toastycedes.itch.io/late-night-duty",
+    "url": "https://teamsalvato.itch.io/ddlc",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -523,16 +523,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://sourmiiiilk.itch.io/online-obsession",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Doki Doki Literature Club!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://teamsalvato.itch.io/ddlc",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -553,6 +543,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://elyaradine.itch.io/dressmaker",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Late Night Duty DEMO",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://toastycedes.itch.io/late-night-duty",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
