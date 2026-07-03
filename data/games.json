@@ -3,7 +3,7 @@
     "title": "Nova Lands",
     "platform": "Epic Games",
     "originalPrice": "$19.99",
-    "endDate": "2026-09-17T15:00:00.000Z",
+    "endDate": "2026-07-30T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
     "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png"
   },
@@ -51,7 +51,7 @@
     "title": "Tattoo Tycoon",
     "platform": "Epic Games",
     "originalPrice": "$29.99",
-    "endDate": "2026-10-08T15:00:00.000Z",
+    "endDate": "2026-07-16T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c",
     "image": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg"
   },
@@ -229,6 +229,17 @@
     "freeType": "limited"
   },
   {
+    "title": "IRON NEST: Heavy Turret Simulator Demo",
+    "slug": "iron_nest_heavy_turret_simulator_demo",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/iron_nest_heavy_turret_simulator_demo",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Batman™: Arkham Bundle",
     "slug": "batman_arkham_bundle",
     "platform": "GOG",
@@ -317,17 +328,6 @@
     "freeType": "limited"
   },
   {
-    "title": "Alaloth: Champions of The Four Kingdoms - Luminous Redeemer Set",
-    "slug": "alaloth_champions_of_the_four_kingdoms_luminous_redeemer_set",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/alaloth_champions_of_the_four_kingdoms_luminous_redeemer_set",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
     "title": "SEWER CALL",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -338,21 +338,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Wet Candy",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://twistandscream.itch.io/wet-candy",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Parasomnia Verum 2 demo 🦜🍉",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://vidas-salavejus.itch.io/parasomnia-verum-2-demo",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Wet Candy",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://twistandscream.itch.io/wet-candy",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -378,16 +378,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Late Pizza Delivery",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://bubu07.itch.io/late-pizza-delivery",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Death Loop [A Danganronpa-inspired Game]",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -408,11 +398,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "title": "Late Pizza Delivery",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
+    "url": "https://bubu07.itch.io/late-pizza-delivery",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -423,6 +413,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://shawcat.itch.io/last-kid-on-the-bus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mrdrnose.itch.io/votv",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -448,21 +448,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "TAKE CARE OF THE DOG",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://bodinhe.itch.io/takecareofthedog",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "A Date with Death",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "TAKE CARE OF THE DOG",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://bodinhe.itch.io/takecareofthedog",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -488,26 +488,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "CreepyDates",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://hahadit.itch.io/creepydates",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Among The Leaves",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://gummygrenadegames.itch.io/among-the-leaves",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Don&#039;t eat the cashier!",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -528,6 +508,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "Yazzie Junior (ZX Spectrum)",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://retrosouls.itch.io/yazzie-junior-zx-spectrum",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Knee Deep! [DEMO]",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -538,21 +528,31 @@
     "freeType": "permanent"
   },
   {
-    "title": "Dressmaker",
+    "title": "CreepyDates",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://elyaradine.itch.io/dressmaker",
+    "url": "https://hahadit.itch.io/creepydates",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Yazzie Junior (ZX Spectrum)",
+    "title": "Among The Leaves",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://retrosouls.itch.io/yazzie-junior-zx-spectrum",
+    "url": "https://gummygrenadegames.itch.io/among-the-leaves",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Dressmaker",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://elyaradine.itch.io/dressmaker",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
