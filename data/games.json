@@ -3,7 +3,7 @@
     "title": "Nova Lands",
     "platform": "Epic Games",
     "originalPrice": "$19.99",
-    "endDate": "2026-07-30T15:00:00.000Z",
+    "endDate": "2026-07-16T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
     "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png"
   },
@@ -51,7 +51,7 @@
     "title": "Tattoo Tycoon",
     "platform": "Epic Games",
     "originalPrice": "$29.99",
-    "endDate": "2026-07-16T15:00:00.000Z",
+    "endDate": "2026-10-08T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c",
     "image": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg"
   },
@@ -358,31 +358,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Pepper the Giant Purple Dog Demo",
+    "title": "TWIN Hotel, Spa, and More",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://hagenstein-games.itch.io/pepper-the-giant-purple-dog-demo",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Twilight Observer",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://whitescarstudio.itch.io/to",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Death Loop [A Danganronpa-inspired Game]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://hopefullight.itch.io/time-traveler",
+    "url": "https://solitarystudios.itch.io/twin-hotel-spa-and-more",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -398,11 +378,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Late Pizza Delivery",
+    "title": "Twilight Observer",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://bubu07.itch.io/late-pizza-delivery",
+    "url": "https://whitescarstudio.itch.io/to",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -418,6 +398,26 @@
     "freeType": "permanent"
   },
   {
+    "title": "Pepper the Giant Purple Dog Demo",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://hagenstein-games.itch.io/pepper-the-giant-purple-dog-demo",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Death Loop [A Danganronpa-inspired Game]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://hopefullight.itch.io/time-traveler",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "&quot;Voices Of The Void&quot; Alpha",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -428,21 +428,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "TWIN Hotel, Spa, and More",
+    "title": "Late Pizza Delivery",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://solitarystudios.itch.io/twin-hotel-spa-and-more",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "14 Days With You [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "url": "https://bubu07.itch.io/late-pizza-delivery",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -458,11 +448,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "TAKE CARE OF THE DOG",
+    "title": "14 Days With You [DEMO]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://bodinhe.itch.io/takecareofthedog",
+    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Among The Leaves",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://gummygrenadegames.itch.io/among-the-leaves",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -498,31 +498,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Online Obsession",
+    "title": "TOUCHSTARVED: A Dark Romance Visual Novel",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://sourmiiiilk.itch.io/online-obsession",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Yazzie Junior (ZX Spectrum)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://retrosouls.itch.io/yazzie-junior-zx-spectrum",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Knee Deep! [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://comfortkuma.itch.io/knee-deep",
+    "url": "https://redspringstudio.itch.io/touchstarved",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -538,11 +518,31 @@
     "freeType": "permanent"
   },
   {
-    "title": "Among The Leaves",
+    "title": "COBB CAN MOVE",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://gummygrenadegames.itch.io/among-the-leaves",
+    "url": "https://abho.itch.io/cobb-can-move",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Knee Deep! [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://comfortkuma.itch.io/knee-deep",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "By the Last Petal",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mintychew.itch.io/by-the-last-petal",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -558,11 +558,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "How to Date an Entity (and stay alive)",
+    "title": "TAKE CARE OF THE DOG",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://sfour-s4.itch.io/how-to-date-an-entity",
+    "url": "https://bodinhe.itch.io/takecareofthedog",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
