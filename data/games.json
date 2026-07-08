@@ -368,26 +368,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Wet Candy",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://twistandscream.itch.io/wet-candy",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Twilight Observer",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://whitescarstudio.itch.io/to",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Shrouded in Your Love",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -413,6 +393,26 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://whatdoinamemyself.itch.io/let-me-in",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Twilight Observer",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://whitescarstudio.itch.io/to",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Wet Candy",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://twistandscream.itch.io/wet-candy",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -448,81 +448,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Starfallen: Strength",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://meant-to-bee-studios.itch.io/starfallen-strength",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "GLITCHSIST",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://tartessos-games.itch.io/glith",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Forgotten At Fredbear&#039;s",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://thejacorn.itch.io/faf",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Today, I&#039;ll Be The Hero",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mokadevs.itch.io/today-ill-be-the-hero",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Beat of the Atrium",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://coraliacries.itch.io/beat-of-the-atrium",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Harlequinade [Demo]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://crystalgameworks.itch.io/harlequinade",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Death Spiral",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://kindanice.itch.io/death-spiral",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -538,11 +468,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "TAKE CARE OF THE DOG",
+    "title": "Beat of the Atrium",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://bodinhe.itch.io/takecareofthedog",
+    "url": "https://coraliacries.itch.io/beat-of-the-atrium",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -553,6 +483,76 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://harlequindiver.itch.io/asleep-in-the-deep",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Today, I&#039;ll Be The Hero",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mokadevs.itch.io/today-ill-be-the-hero",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "GLITCHSIST",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://tartessos-games.itch.io/glith",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Starfallen: Strength",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://meant-to-bee-studios.itch.io/starfallen-strength",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Harlequinade [Demo]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://crystalgameworks.itch.io/harlequinade",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Death Spiral",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://kindanice.itch.io/death-spiral",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mrdrnose.itch.io/votv",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "TAKE CARE OF THE DOG",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://bodinhe.itch.io/takecareofthedog",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
