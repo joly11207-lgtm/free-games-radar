@@ -3,7 +3,7 @@
     "title": "Nova Lands",
     "platform": "Epic Games",
     "originalPrice": "$19.99",
-    "endDate": "2026-09-17T15:00:00.000Z",
+    "endDate": "2026-07-16T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
     "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png"
   },
@@ -22,6 +22,14 @@
     "endDate": "2026-07-30T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/ghostrunner-2",
     "image": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba"
+  },
+  {
+    "title": "Lost Castle: The Old Ones Awaken",
+    "platform": "Epic Games",
+    "originalPrice": "$3.99",
+    "endDate": "2026-07-30T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/lost-castle-abb2e2",
+    "image": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png"
   },
   {
     "title": "LISA: The Definitive Edition",
@@ -51,7 +59,7 @@
     "title": "Tattoo Tycoon",
     "platform": "Epic Games",
     "originalPrice": "$29.99",
-    "endDate": "2026-07-16T15:00:00.000Z",
+    "endDate": "2026-10-08T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c",
     "image": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg"
   },
@@ -62,6 +70,14 @@
     "endDate": "2026-07-09T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2",
     "image": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png"
+  },
+  {
+    "title": "Echo Generation: Midnight Edition",
+    "platform": "Epic Games",
+    "originalPrice": "$24.99",
+    "endDate": "2026-07-23T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026",
+    "image": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg"
   },
   {
     "title": "Sleepytime Village",
@@ -358,6 +374,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "Twilight Observer",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://whitescarstudio.itch.io/to",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Death Loop [A Danganronpa-inspired Game]",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -393,16 +419,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://whatdoinamemyself.itch.io/let-me-in",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Twilight Observer",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://whitescarstudio.itch.io/to",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -448,21 +464,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Forgotten At Fredbear&#039;s",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://thejacorn.itch.io/faf",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Bobby&#039;s Beautiful Bugs",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://digitarium.itch.io/bobbys-bugs",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Forgotten At Fredbear&#039;s",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://thejacorn.itch.io/faf",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -488,6 +504,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "GLITCHSIST",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://tartessos-games.itch.io/glith",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Today, I&#039;ll Be The Hero",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -498,11 +524,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "GLITCHSIST",
+    "title": "&quot;Voices Of The Void&quot; Alpha",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://tartessos-games.itch.io/glith",
+    "url": "https://mrdrnose.itch.io/votv",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -528,26 +554,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Death Spiral",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://kindanice.itch.io/death-spiral",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "TAKE CARE OF THE DOG",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -558,11 +564,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "The Starweaver&#039;s Dream",
+    "title": "Death Spiral",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://lyraeluxstudios.itch.io/the-starweavers-dream",
+    "url": "https://kindanice.itch.io/death-spiral",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The last debug",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://notpetus.itch.io/the-last-debug",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
