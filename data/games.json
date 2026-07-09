@@ -3,7 +3,7 @@
     "title": "Nova Lands",
     "platform": "Epic Games",
     "originalPrice": "$19.99",
-    "endDate": "2026-07-16T15:00:00.000Z",
+    "endDate": "2026-09-17T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
     "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png"
   },
@@ -344,21 +344,21 @@
     "freeType": "limited"
   },
   {
-    "title": "SEWER CALL",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://v1to666.itch.io/sewer-call",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "TWIN Hotel, Spa, and More",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://solitarystudios.itch.io/twin-hotel-spa-and-more",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "SEWER CALL",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://v1to666.itch.io/sewer-call",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -374,11 +374,31 @@
     "freeType": "permanent"
   },
   {
+    "title": "Don&#039;t Pick Up Stray Aliens!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://yorubox.itch.io/dont-pick-up-stray-aliens",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Twilight Observer",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://whitescarstudio.itch.io/to",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Beaumount Academy: After class confession",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://kitty-hikari-atelier.itch.io/beaumount-academy-after-class-confession",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -394,11 +414,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Shrouded in Your Love",
+    "title": "Princess Protocol",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://whatdoinamemyself.itch.io/shrouded-in-your-love",
+    "url": "https://chattercap.itch.io/princess-protocol",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -409,6 +429,36 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Shrouded in Your Love",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://whatdoinamemyself.itch.io/shrouded-in-your-love",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Deep Sea Boutonniere",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://faesu.itch.io/deep-sea-bouttoniare",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The last debug",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://notpetus.itch.io/the-last-debug",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -434,16 +484,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Voice of Nature Demo",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://voiceofnature.itch.io/voice-of-nature-demo",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "NASUBI",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -464,11 +504,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Bobby&#039;s Beautiful Bugs",
+    "title": "Voice of Nature Demo",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://digitarium.itch.io/bobbys-bugs",
+    "url": "https://voiceofnature.itch.io/voice-of-nature-demo",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Dig Dan Dig!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://dofugames.itch.io/dig-dan-dig",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -484,31 +534,31 @@
     "freeType": "permanent"
   },
   {
-    "title": "Beat of the Atrium",
+    "title": "&quot;Voices Of The Void&quot; Alpha",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://coraliacries.itch.io/beat-of-the-atrium",
+    "url": "https://mrdrnose.itch.io/votv",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Asleep in the Deep",
+    "title": "Bobby&#039;s Beautiful Bugs",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://harlequindiver.itch.io/asleep-in-the-deep",
+    "url": "https://digitarium.itch.io/bobbys-bugs",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "GLITCHSIST",
+    "title": "ERROR143",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://tartessos-games.itch.io/glith",
+    "url": "https://jennyvipham.itch.io/error143",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -524,61 +574,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "title": "Final Route",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Starfallen: Strength",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://meant-to-bee-studios.itch.io/starfallen-strength",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Harlequinade [Demo]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://crystalgameworks.itch.io/harlequinade",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "TAKE CARE OF THE DOG",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://bodinhe.itch.io/takecareofthedog",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Death Spiral",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://kindanice.itch.io/death-spiral",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The last debug",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://notpetus.itch.io/the-last-debug",
+    "url": "https://0bsessi0n.itch.io/final-route",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
