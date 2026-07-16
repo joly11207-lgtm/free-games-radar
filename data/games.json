@@ -146,6 +146,17 @@
     "freeType": "limited"
   },
   {
+    "title": "IRON NEST: Heavy Turret Simulator",
+    "slug": "iron_nest_heavy_turret_simulator",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/iron_nest_heavy_turret_simulator",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Montabi",
     "slug": "montabi",
     "platform": "GOG",
@@ -328,17 +339,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/batman_arkham_bundle",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Jaleco Sports: Bases Loaded 2",
-    "slug": "jaleco_sports_bases_loaded_2",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/jaleco_sports_bases_loaded_2",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
