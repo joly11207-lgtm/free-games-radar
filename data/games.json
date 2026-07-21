@@ -259,6 +259,39 @@
     "freeType": "limited"
   },
   {
+    "title": "Pit Panic - Supporter Pack & OST",
+    "slug": "pit_panic_supporter_pack_ost",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/pit_panic_supporter_pack_ost",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Pit Panic Full Pockets Edition",
+    "slug": "pit_panic_full_pockets_edition",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/pit_panic_full_pockets_edition",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Sticky Business: Seaside Tales",
+    "slug": "sticky_business_seaside_tales",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/sticky_business_seaside_tales",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Fogpiercer",
     "slug": "fogpiercer",
     "platform": "GOG",
@@ -298,39 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/the_crimson_maid",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Alters: Last Variable",
-    "slug": "the_alters_last_variable",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_alters_last_variable",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Escape from Umbra Demo",
-    "slug": "escape_from_umbra_demo",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/escape_from_umbra_demo",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "IRON NEST: Heavy Turret Simulator Demo",
-    "slug": "iron_nest_heavy_turret_simulator_demo",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/iron_nest_heavy_turret_simulator_demo",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
