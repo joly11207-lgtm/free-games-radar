@@ -160,6 +160,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Tukoni: Forest Keepers",
+    "slug": "tukoni_forest_keepers",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/tukoni_forest_keepers",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Defender of the Crown: The Legend Returns",
     "slug": "defender_of_the_crown_the_legend_returns",
     "platform": "GOG",
@@ -325,32 +336,11 @@
     "freeType": "limited"
   },
   {
-    "title": "Pit Panic - Supporter Pack & OST",
-    "slug": "pit_panic_supporter_pack_ost",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/pit_panic_supporter_pack_ost",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
     "title": "Exorcist Candy",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://twistandscream.itch.io/exorcist-candy",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "TWIN Hotel, Spa, and More",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://solitarystudios.itch.io/twin-hotel-spa-and-more",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -366,11 +356,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Record of Greypine",
+    "title": "TWIN Hotel, Spa, and More",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mischiefmischa.itch.io/record-of-greypine",
+    "url": "https://solitarystudios.itch.io/twin-hotel-spa-and-more",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -381,6 +371,26 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://zebaxx.itch.io/stories-to-tell-the-stoneville-incident",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Record of Greypine",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mischiefmischa.itch.io/record-of-greypine",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Your Happy Place",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://dark-knife15.itch.io/your-happy-place",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -406,16 +416,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Teach me how to love!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://rossaredflyn.itch.io/teach-me-how-to-love",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Twilight Observer",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -426,21 +426,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Your Happy Place",
+    "title": "Teach me how to love!",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://dark-knife15.itch.io/your-happy-place",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Antonym Obscure",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://ebihime.itch.io/antonym-obscure",
+    "url": "https://rossaredflyn.itch.io/teach-me-how-to-love",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -456,11 +446,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Missing : The Late Night Rice Noodle (Demo)",
+    "title": "Antonym Obscure",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://renecyborg.itch.io/missing-the-late-night-rice-noodle",
+    "url": "https://ebihime.itch.io/antonym-obscure",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -486,6 +476,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "Missing : The Late Night Rice Noodle (Demo)",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://renecyborg.itch.io/missing-the-late-night-rice-noodle",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "ERROR143",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -501,16 +501,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://liminace.itch.io/if-the-shoe-fits",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Final Route",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://0bsessi0n.itch.io/final-route",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -546,11 +536,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Il Dottore Dating Sim",
+    "title": "Final Route",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://authorhd.itch.io/il-dottore-dating-sim",
+    "url": "https://0bsessi0n.itch.io/final-route",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Don&#039;t eat the cashier!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://detcc.itch.io/dont-eat-the-cashier",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -566,11 +566,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Don&#039;t eat the cashier!",
+    "title": "Drop Loot",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://detcc.itch.io/dont-eat-the-cashier",
+    "url": "https://johnreno.itch.io/droploot",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
