@@ -127,6 +127,17 @@
     "freeType": "limited"
   },
   {
+    "title": "S.T.A.L.K.E.R. 2: Cost of Hope",
+    "slug": "stalker_2_cost_of_hope",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/stalker_2_cost_of_hope",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "The Sinking City 2 – Deluxe Edition Pre-Purchase",
     "slug": "the_sinking_city_2_deluxe_edition",
     "platform": "GOG",
@@ -259,6 +270,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Graphite",
+    "slug": "graphite",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/graphite",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Order Automatica",
     "slug": "order_automatica",
     "platform": "GOG",
@@ -309,28 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/dino_jump_deluxe_soundtrack",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Grim Dawn - Fangs of Asterkarn",
-    "slug": "grim_dawn_fangs_of_asterkarn",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/grim_dawn_fangs_of_asterkarn",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Panzer Corps 2: Elite - All American",
-    "slug": "panzer_corps_2_elite_all_american",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/panzer_corps_2_elite_all_american",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
