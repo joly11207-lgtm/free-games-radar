@@ -303,6 +303,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Terra Invicta - Supporter Pack",
+    "slug": "terra_invicta_supporter_pack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/terra_invicta_supporter_pack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Cornhole Hero",
     "slug": "cornhole_hero",
     "platform": "GOG",
@@ -320,17 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/dino_jump",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Dino Jump Deluxe Soundtrack",
-    "slug": "dino_jump_deluxe_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/dino_jump_deluxe_soundtrack",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
