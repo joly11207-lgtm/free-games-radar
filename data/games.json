@@ -32,6 +32,14 @@
     "image": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5"
   },
   {
+    "title": "Caravan SandWitch",
+    "platform": "Epic Games",
+    "originalPrice": "$24.99",
+    "endDate": "2026-08-20T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58",
+    "image": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg"
+  },
+  {
     "title": "Monument Valley",
     "platform": "Epic Games",
     "originalPrice": "$7.99",
@@ -295,6 +303,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Cargo, Please!",
+    "slug": "cargo_please",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/cargo_please",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Astro Burn",
     "slug": "astro_burn",
     "platform": "GOG",
@@ -315,16 +334,5 @@
     "image": "",
     "source": "GOG Official API",
     "freeType": "permanent"
-  },
-  {
-    "title": "Truxton Extreme - Batsugun Music & Skin Set",
-    "slug": "truxton_extreme_batsugun_music_skin_set",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/truxton_extreme_batsugun_music_skin_set",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
   }
 ]
