@@ -460,31 +460,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Mermade",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://aomame.itch.io/mermade",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "wan-wan wash!",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://cutegamesclub.itch.io/wan-wan-wash",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Pocket Vampire Girl",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://curselabs.itch.io/pocket-vampire-girl",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -500,21 +480,41 @@
     "freeType": "permanent"
   },
   {
-    "title": "Harvesters",
+    "title": "Mermade",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://chuckiee3.itch.io/harvesters",
+    "url": "https://aomame.itch.io/mermade",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "title": "Pocket Vampire Girl",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
+    "url": "https://curselabs.itch.io/pocket-vampire-girl",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Butcher-Me-Not",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://arrokoth486958.itch.io/butcher-me-not",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Harvesters",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://chuckiee3.itch.io/harvesters",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -530,16 +530,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Big Bad Dogs",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://spar0w.itch.io/bigbaddogs",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Perfect Circle: Stand Alone",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -550,11 +540,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "ERROR143",
+    "title": "Big Bad Dogs",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://jennyvipham.itch.io/error143",
+    "url": "https://spar0w.itch.io/bigbaddogs",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "SEWER CALL",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://v1to666.itch.io/sewer-call",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
