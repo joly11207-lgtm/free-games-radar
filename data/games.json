@@ -40,6 +40,14 @@
     "image": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg"
   },
   {
+    "title": "Castlevania Anniversary Collection",
+    "platform": "Epic Games",
+    "originalPrice": "$19.99",
+    "endDate": "2026-09-17T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
+    "image": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg"
+  },
+  {
     "title": "Monument Valley",
     "platform": "Epic Games",
     "originalPrice": "$7.99",
@@ -73,6 +81,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/sleepytime_village",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Remothered: Red Nun's Legacy",
+    "slug": "remothered_red_nuns_legacy",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/remothered_red_nuns_legacy",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -177,18 +196,7 @@
     "freeType": "limited"
   },
   {
-    "title": "The Sinking City 2 – Deluxe Edition Pre-Purchase",
-    "slug": "the_sinking_city_2_deluxe_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_sinking_city_2_deluxe_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Sinking City 2 – Pre-Purchase",
+    "title": "The Sinking City 2",
     "slug": "the_sinking_city_2",
     "platform": "GOG",
     "originalPrice": "Free",
@@ -199,12 +207,89 @@
     "freeType": "limited"
   },
   {
-    "title": "The Sinking City 2 – Premium Edition Pre-Purchase",
+    "title": "The Sinking City 2 – Deluxe Edition",
+    "slug": "the_sinking_city_2_deluxe_edition",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_sinking_city_2_deluxe_edition",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "The Sinking City 2 – Original Soundtrack",
+    "slug": "the_sinking_city_2_soundtrack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_sinking_city_2_soundtrack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "The Sinking City 2 – Premium Edition",
     "slug": "the_sinking_city_2_premium_edition",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/the_sinking_city_2_premium_edition",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "The Sinking City 2 – The Arkham Field Kit",
+    "slug": "the_sinking_city_2_the_arkham_field_kit",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_sinking_city_2_the_arkham_field_kit",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "The Sinking City 2 – The Holloway Manor",
+    "slug": "the_sinking_city_2_the_holloway_manor",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_sinking_city_2_the_holloway_manor",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "The Troma Project - Mutant Cut & Bonus Vault",
+    "slug": "the_troma_project_mutant_cut_bonus_vault",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_troma_project_mutant_cut_bonus_vault",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "The Troma Project - Original Soundtrash Remastered",
+    "slug": "the_troma_project_original_soundtrash_remastered",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_troma_project_original_soundtrash_remastered",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "The Troma Project - Toxic Waste Collection",
+    "slug": "the_troma_project_toxic_waste_collection",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_troma_project_toxic_waste_collection",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -238,83 +323,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/tukoni_forest_keepers_collectors_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Defender of the Crown: The Legend Returns",
-    "slug": "defender_of_the_crown_the_legend_returns",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/defender_of_the_crown_the_legend_returns",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Eye of the Incubus",
-    "slug": "eye_of_the_incubus",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/eye_of_the_incubus",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Eye of the Incubus UNRATED",
-    "slug": "eye_of_the_incubus_unrated",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/eye_of_the_incubus_unrated",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Sandustry",
-    "slug": "sandustry",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/sandustry",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Palm Sugar: A Village Story",
-    "slug": "palm_sugar_a_village_story",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/palm_sugar_a_village_story",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Security 51",
-    "slug": "security_51",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/security_51",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Security 51 Original Soundtrack",
-    "slug": "security_51_original_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/security_51_original_soundtrack",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
