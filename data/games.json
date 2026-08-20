@@ -8,6 +8,14 @@
     "image": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df"
   },
   {
+    "title": "Breathedge",
+    "platform": "Epic Games",
+    "originalPrice": "$24.99",
+    "endDate": "2026-09-03T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/breathedge",
+    "image": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg"
+  },
+  {
     "title": "Ghostrunner 2",
     "platform": "Epic Games",
     "originalPrice": "$39.99",
@@ -64,6 +72,14 @@
     "image": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-7k7df.png"
   },
   {
+    "title": "Rival Stars Horse Racing : Desktop Edition",
+    "platform": "Epic Games",
+    "originalPrice": "$24.99",
+    "endDate": "2026-09-03T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de",
+    "image": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg"
+  },
+  {
     "title": "SOMBRAS: negative frames",
     "slug": "sombras_negative_frames",
     "platform": "GOG",
@@ -92,6 +108,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/remothered_red_nuns_legacy",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Beyond These Stars",
+    "slug": "beyond_these_stars",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/beyond_these_stars",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -180,6 +207,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/stalker_2_cost_of_hope",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Theropods",
+    "slug": "theropods",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/theropods",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -301,28 +339,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/the_troma_project_original_soundtrash_remastered",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Troma Project - Toxic Waste Collection",
-    "slug": "the_troma_project_toxic_waste_collection",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_troma_project_toxic_waste_collection",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Tukoni: Forest Keepers",
-    "slug": "tukoni_forest_keepers",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/tukoni_forest_keepers",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
