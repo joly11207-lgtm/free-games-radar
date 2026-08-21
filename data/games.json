@@ -11,7 +11,7 @@
     "title": "Breathedge",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-09-03T15:00:00.000Z",
+    "endDate": "2026-09-17T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/breathedge",
     "image": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg"
   },
@@ -38,14 +38,6 @@
     "endDate": "2026-10-02T05:59:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
     "image": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg"
-  },
-  {
-    "title": "Caravan SandWitch",
-    "platform": "Epic Games",
-    "originalPrice": "$24.99",
-    "endDate": "2026-08-20T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58",
-    "image": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg"
   },
   {
     "title": "Castlevania Anniversary Collection",
@@ -179,12 +171,67 @@
     "freeType": "limited"
   },
   {
+    "title": "Brigador \"The Double Deluxe\" Bundle",
+    "slug": "brigador_the_double_deluxe_bundle",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/brigador_the_double_deluxe_bundle",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Brigador Killers",
     "slug": "brigador_killers",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/brigador_killers",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Brigador Killers Deluxe Edition",
+    "slug": "brigador_killers_deluxe_edition",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/brigador_killers_deluxe_edition",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Brigador Killers Soundtrack",
+    "slug": "brigador_killers_soundtrack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/brigador_killers_soundtrack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Brigador Killers: Pilgrim - Audiobook",
+    "slug": "brigador_killers_pilgrim_audiobook",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/brigador_killers_pilgrim_audiobook",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Cataclismo - Supporter Pack",
+    "slug": "cataclismo_supporter_pack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/cataclismo_supporter_pack",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -284,61 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/the_sinking_city_2_soundtrack",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Sinking City 2 – Premium Edition",
-    "slug": "the_sinking_city_2_premium_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_sinking_city_2_premium_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Sinking City 2 – The Arkham Field Kit",
-    "slug": "the_sinking_city_2_the_arkham_field_kit",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_sinking_city_2_the_arkham_field_kit",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Sinking City 2 – The Holloway Manor",
-    "slug": "the_sinking_city_2_the_holloway_manor",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_sinking_city_2_the_holloway_manor",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Troma Project - Mutant Cut & Bonus Vault",
-    "slug": "the_troma_project_mutant_cut_bonus_vault",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_troma_project_mutant_cut_bonus_vault",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Troma Project - Original Soundtrash Remastered",
-    "slug": "the_troma_project_original_soundtrash_remastered",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_troma_project_original_soundtrash_remastered",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
