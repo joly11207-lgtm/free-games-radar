@@ -11,7 +11,7 @@
     "title": "Breathedge",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-09-17T15:00:00.000Z",
+    "endDate": "2026-09-03T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/breathedge",
     "image": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg"
   },
@@ -138,12 +138,45 @@
     "freeType": "limited"
   },
   {
+    "title": "Magical Blush",
+    "slug": "magical_blush",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/magical_blush",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "The Alighieri Circle: Dante's Bloodline",
     "slug": "the_alighieri_circle_dantes_bloodline",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/the_alighieri_circle_dantes_bloodline",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "The Blood of Dawnwalker",
+    "slug": "the_blood_of_dawnwalker",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_blood_of_dawnwalker",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "The Blood of Dawnwalker - Eclipse Edition",
+    "slug": "the_blood_of_dawnwalker_eclipse_edition",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_blood_of_dawnwalker_eclipse_edition",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -298,39 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/darkest_dungeon_the_fires_edge",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Sinking City 2",
-    "slug": "the_sinking_city_2",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_sinking_city_2",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Sinking City 2 – Deluxe Edition",
-    "slug": "the_sinking_city_2_deluxe_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_sinking_city_2_deluxe_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Sinking City 2 – Original Soundtrack",
-    "slug": "the_sinking_city_2_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_sinking_city_2_soundtrack",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
