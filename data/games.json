@@ -314,23 +314,23 @@
     "freeType": "limited"
   },
   {
-    "title": "Painkiller RTX",
-    "slug": "painkiller_rtx",
+    "title": "Roots in the Sky - The Hand of Glory 2 - Soundtrack",
+    "slug": "roots_in_the_sky_the_hand_of_glory_2_soundtrack",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/painkiller_rtx",
+    "url": "https://www.gog.com/en/game/roots_in_the_sky_the_hand_of_glory_2_soundtrack",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Din's Champion",
-    "slug": "dins_champion",
+    "title": "Roots in the Sky - The Hand of Glory 2 Soundtrack Bundle",
+    "slug": "roots_in_the_sky_the_hand_of_glory_2_soundtrack_bundle",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/dins_champion",
+    "url": "https://www.gog.com/en/game/roots_in_the_sky_the_hand_of_glory_2_soundtrack_bundle",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -346,16 +346,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Little Horrors: The Mortuary",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://caliebre.itch.io/little-horrors-the-mortuary",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Still With Me [Demo]",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -366,21 +356,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Foreborn",
+    "title": "Little Horrors: The Mortuary",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://twistandscream.itch.io/foreborn",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "WebConfessional",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://peachieevee.itch.io/webconfessional",
+    "url": "https://caliebre.itch.io/little-horrors-the-mortuary",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -391,6 +371,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://hopefullight.itch.io/time-traveler",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "WebConfessional",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://peachieevee.itch.io/webconfessional",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -416,11 +406,41 @@
     "freeType": "permanent"
   },
   {
+    "title": "Foreborn",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://twistandscream.itch.io/foreborn",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Slide in the woods",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://jonnys-games.itch.io/slide-in-the-woods",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mrdrnose.itch.io/votv",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "TAKE CARE OF THE CAT",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://bodinhe.itch.io/takecareofthecat",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -446,26 +466,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Breakout Baby | Baby&#039;s First Step",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://assemble-entertainment.itch.io/breakout-baby",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "DEXFUSAL",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -476,11 +476,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "TAKE CARE OF THE CAT",
+    "title": "Game About Botting in an MMORPG",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://bodinhe.itch.io/takecareofthecat",
+    "url": "https://yaxworks.itch.io/game-about-botting-in-an-mmorpg",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -496,11 +496,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Bumper to Billions",
+    "title": "Breakout Baby | Baby&#039;s First Step",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://happydistractionsstudio.itch.io/bumper-to-billions",
+    "url": "https://assemble-entertainment.itch.io/breakout-baby",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -516,6 +516,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "Doki Doki Literature Club!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://teamsalvato.itch.io/ddlc",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "ERROR143",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -526,11 +536,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Doki Doki Literature Club!",
+    "title": "Bumper to Billions",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://teamsalvato.itch.io/ddlc",
+    "url": "https://happydistractionsstudio.itch.io/bumper-to-billions",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -546,31 +556,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "The One We Can&#039;t See",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://wiktor-games.itch.io/the-one-we-cant-see",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "14 Days With You [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://cutiesai.itch.io/14dayswithyou",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Dawn Chorus",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://dawn-chorus.itch.io/dawn-chorus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The One We Can&#039;t See",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://wiktor-games.itch.io/the-one-we-cant-see",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
