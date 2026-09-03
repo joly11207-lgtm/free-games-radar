@@ -1,13 +1,5 @@
 [
   {
-    "title": "Breathedge",
-    "platform": "Epic Games",
-    "originalPrice": "$24.99",
-    "endDate": "2026-09-03T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/breathedge",
-    "image": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg"
-  },
-  {
     "title": "Ghostrunner 2",
     "platform": "Epic Games",
     "originalPrice": "$39.99",
@@ -48,20 +40,28 @@
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
   {
-    "title": "Rival Stars Horse Racing : Desktop Edition",
-    "platform": "Epic Games",
-    "originalPrice": "$24.99",
-    "endDate": "2026-09-03T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de",
-    "image": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg"
-  },
-  {
     "title": "Alone With You",
     "platform": "Epic Games",
     "originalPrice": "$9.99",
     "endDate": "2026-09-10T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/alone-with-you-028a15",
     "image": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png"
+  },
+  {
+    "title": "Luftrausers",
+    "platform": "Epic Games",
+    "originalPrice": "$9.99",
+    "endDate": "2026-09-17T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/luftrausers-51e5e9",
+    "image": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png"
+  },
+  {
+    "title": "Astral Ascent",
+    "platform": "Epic Games",
+    "originalPrice": "$24.99",
+    "endDate": "2026-09-17T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/astral-ascent-b33bc2",
+    "image": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png"
   },
   {
     "title": "SOMBRAS: negative frames",
