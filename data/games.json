@@ -86,6 +86,17 @@
     "freeType": "limited"
   },
   {
+    "title": "After the Wane",
+    "slug": "after_the_wane",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/after_the_wane",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Sleepytime Village",
     "slug": "sleepytime_village",
     "platform": "GOG",
@@ -147,6 +158,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/distant_worlds_2_shadows_rising",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Okko The Exiled",
+    "slug": "okko_the_exiled",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/okko_the_exiled",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -251,6 +273,28 @@
     "freeType": "limited"
   },
   {
+    "title": "Dataminers",
+    "slug": "dataminers",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/dataminers",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Dataminers - Artbook and Making-of",
+    "slug": "dataminers_artbook",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/dataminers_artbook",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Asdivine Knot",
     "slug": "asdivine_knot",
     "platform": "GOG",
@@ -279,50 +323,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/order_automatica_supporter_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Order Automatica Soundtrack",
-    "slug": "order_automatica_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/order_automatica_soundtrack",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Blood of Dawnwalker",
-    "slug": "the_blood_of_dawnwalker",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_blood_of_dawnwalker",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Blood of Dawnwalker - Eclipse Edition",
-    "slug": "the_blood_of_dawnwalker_eclipse_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_blood_of_dawnwalker_eclipse_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Blood of Dawnwalker - Eclipse Edition Content",
-    "slug": "the_blood_of_dawnwalker_eclipse_edition_content",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_blood_of_dawnwalker_eclipse_edition_content",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
