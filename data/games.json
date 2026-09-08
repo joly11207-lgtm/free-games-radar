@@ -273,6 +273,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Monsters Are Coming! Madness Builds",
+    "slug": "monsters_are_coming_madness_builds",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/monsters_are_coming_madness_builds",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Dataminers",
     "slug": "dataminers",
     "platform": "GOG",
@@ -312,17 +323,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/order_automatica",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Order Automatica - Supporter Edition",
-    "slug": "order_automatica_supporter_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/order_automatica_supporter_edition",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
