@@ -19,7 +19,7 @@
     "title": "LISA: The Definitive Edition",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2027-01-07T16:00:00.000Z",
+    "endDate": "2026-10-02T05:59:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
     "image": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg"
   },
@@ -259,6 +259,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Gently Packed Demo",
+    "slug": "gently_packed_demo",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/gently_packed_demo",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Alien Breed 35th Anniversary Demo",
     "slug": "alien_breed_35th_anniversary_demo",
     "platform": "GOG",
@@ -325,17 +336,6 @@
     "freeType": "limited"
   },
   {
-    "title": "Asdivine Knot",
-    "slug": "asdivine_knot",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/asdivine_knot",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
     "title": "The No Jumpscare Show",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -376,11 +376,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Narinig Mo Ba?",
+    "title": "Final Witness",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://doppie.itch.io/narinig-mo-ba",
+    "url": "https://hexnut-studios.itch.io/final-witness",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -396,11 +396,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "CLIMB",
+    "title": "Narinig Mo Ba?",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://kyle-horwood.itch.io/climb",
+    "url": "https://doppie.itch.io/narinig-mo-ba",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -416,16 +416,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Shattered Pixel Dungeon",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://shattered-pixel.itch.io/shattered-pixel-dungeon",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Twilight Observer",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -436,21 +426,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "SCP-3008: Ikee",
+    "title": "CLIMB",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mourners.itch.io/3008",
+    "url": "https://kyle-horwood.itch.io/climb",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Kick The Piñata!",
+    "title": "Shattered Pixel Dungeon",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://eduardscarpato.itch.io/kick-the-pinata",
+    "url": "https://shattered-pixel.itch.io/shattered-pixel-dungeon",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -466,21 +456,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Divine Possession - Season One",
+    "title": "Kick The Piñata!",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://jazzainab.itch.io/divine-possession",
+    "url": "https://eduardscarpato.itch.io/kick-the-pinata",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "FEED THE FISH",
+    "title": "SCP-3008: Ikee",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://nincy12.itch.io/feed-the-fish",
+    "url": "https://mourners.itch.io/3008",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -496,21 +486,41 @@
     "freeType": "permanent"
   },
   {
-    "title": "Geisha",
+    "title": "FEED THE FISH",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://meg-umi.itch.io/geisha",
+    "url": "https://nincy12.itch.io/feed-the-fish",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Still With Me [Demo]",
+    "title": "Divine Possession - Season One",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://merius94.itch.io/still-with-me-demo",
+    "url": "https://jazzainab.itch.io/divine-possession",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "International Obsession",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://thecatamites.itch.io/international-obsession",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Geisha",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://meg-umi.itch.io/geisha",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -526,11 +536,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Inkarn8: First Pages",
+    "title": "Carnival of Shadows",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://yng8studios.itch.io/inkarn8-first-pages",
+    "url": "https://xenubinstudios.itch.io/carnival",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -546,16 +556,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "14 Days With You [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://cutiesai.itch.io/14dayswithyou",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "ERROR143",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -566,11 +566,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Ikigai University",
+    "title": "14 Days With You [DEMO]",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://malevolentgames.itch.io/ikigai-university",
+    "url": "https://cutiesai.itch.io/14dayswithyou",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
