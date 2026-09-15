@@ -11,7 +11,7 @@
     "title": "LISA: The Definitive Edition",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-10-02T05:59:00.000Z",
+    "endDate": "2027-01-07T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
     "image": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg"
   },
@@ -328,21 +328,21 @@
     "freeType": "limited"
   },
   {
-    "title": "The No Jumpscare Show",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://polypaw.itch.io/the-no-jumpscare-show",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Not My Dad - DEMO",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://escapebox.itch.io/not-my-dad",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The No Jumpscare Show",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://polypaw.itch.io/the-no-jumpscare-show",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -368,11 +368,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "771 DEMO",
+    "title": "CLIMB",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://a1esska.itch.io/771-demo",
+    "url": "https://kyle-horwood.itch.io/climb",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -398,11 +398,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "CLIMB",
+    "title": "771 DEMO",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://kyle-horwood.itch.io/climb",
+    "url": "https://a1esska.itch.io/771-demo",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -418,11 +418,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "The Freak Circus",
+    "title": "28.5 PSI",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://garula.itch.io/the-freak-circus",
+    "url": "https://danieloschepkov.itch.io/285-psi",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -438,11 +438,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "28.5 PSI",
+    "title": "The Freak Circus",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://danieloschepkov.itch.io/285-psi",
+    "url": "https://garula.itch.io/the-freak-circus",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -458,6 +458,26 @@
     "freeType": "permanent"
   },
   {
+    "title": "Bounty or Booty",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://doksa.itch.io/bounty-or-booty",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Re:Curse",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://elseth.itch.io/recurse",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Family Business",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -468,11 +488,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "FEED THE FISH",
+    "title": "The Zium Railway",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://nincy12.itch.io/feed-the-fish",
+    "url": "https://theziumsociety.itch.io/the-zium-railway",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -483,6 +503,16 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://hexagonnico.itch.io/dynamine",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "FEED THE FISH",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://nincy12.itch.io/feed-the-fish",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -508,11 +538,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "The Zium Railway",
+    "title": "OBLIVION 2666 - DEMO DISC",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://theziumsociety.itch.io/the-zium-railway",
+    "url": "https://solarautomata.itch.io/oblivion2666demo",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -533,36 +563,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://cutiesai.itch.io/14dayswithyou",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Narinig Mo Ba?",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://doppie.itch.io/narinig-mo-ba",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Bounty or Booty",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://doksa.itch.io/bounty-or-booty",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Among Us Arena Ultimate",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://starcutter.itch.io/among-us-arena",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
