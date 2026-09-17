@@ -1,5 +1,13 @@
 [
   {
+    "title": "Astrea Six Sided Oracles",
+    "platform": "Epic Games",
+    "originalPrice": "$24.99",
+    "endDate": "2026-09-17T23:59:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
+    "image": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png"
+  },
+  {
     "title": "Ghostrunner 2",
     "platform": "Epic Games",
     "originalPrice": "$39.99",
@@ -11,23 +19,15 @@
     "title": "LISA: The Definitive Edition",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-11-10T06:59:00.000Z",
+    "endDate": "2026-10-02T05:59:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
     "image": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg"
-  },
-  {
-    "title": "Castlevania Anniversary Collection",
-    "platform": "Epic Games",
-    "originalPrice": "$19.99",
-    "endDate": "2026-09-17T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
-    "image": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg"
   },
   {
     "title": "Monument Valley",
     "platform": "Epic Games",
     "originalPrice": "$7.99",
-    "endDate": "2026-09-17T15:00:00.000Z",
+    "endDate": "2026-11-02T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
@@ -40,25 +40,9 @@
     "image": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg"
   },
   {
-    "title": "Luftrausers",
-    "platform": "Epic Games",
-    "originalPrice": "$9.99",
-    "endDate": "2026-09-17T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/luftrausers-51e5e9",
-    "image": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png"
-  },
-  {
-    "title": "Astral Ascent",
-    "platform": "Epic Games",
-    "originalPrice": "$24.99",
-    "endDate": "2026-09-17T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/astral-ascent-b33bc2",
-    "image": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png"
-  },
-  {
     "title": "Mindcop",
     "platform": "Epic Games",
-    "originalPrice": "",
+    "originalPrice": "$14.99",
     "endDate": "2026-09-24T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/mindcop-78e6c1",
     "image": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg"
@@ -66,7 +50,7 @@
   {
     "title": "Shogun Showdown",
     "platform": "Epic Games",
-    "originalPrice": "",
+    "originalPrice": "$14.99",
     "endDate": "2026-09-24T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/shogun-showdown-61832d",
     "image": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg"
@@ -182,12 +166,34 @@
     "freeType": "limited"
   },
   {
+    "title": "Battleplan",
+    "slug": "battleplan",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/battleplan",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Heart of the Machine - Kinship",
     "slug": "heart_of_the_machine_kinship",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/heart_of_the_machine_kinship",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Permafrost",
+    "slug": "permafrost",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/permafrost",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -309,28 +315,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/rtype_final_2_r9aix_extra_arrow_rcraft",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Woodo",
-    "slug": "woodo",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/woodo",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "HOPE 01",
-    "slug": "hope_01",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/hope_01",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
