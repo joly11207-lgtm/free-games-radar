@@ -27,7 +27,7 @@
     "title": "Monument Valley",
     "platform": "Epic Games",
     "originalPrice": "$7.99",
-    "endDate": "2027-01-07T16:00:00.000Z",
+    "endDate": "2026-11-02T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
@@ -95,6 +95,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/sleepytime_village",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Cairn - On the Trail: Deep Water",
+    "slug": "cairn_on_the_trail_deep_water",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/cairn_on_the_trail_deep_water",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -254,6 +265,28 @@
     "freeType": "limited"
   },
   {
+    "title": "Pioneers of Pagonia - Echoes of Aldramar",
+    "slug": "pioneers_of_pagonia_echoes_of_aldramar",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/pioneers_of_pagonia_echoes_of_aldramar",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Graveyard Keeper 2",
+    "slug": "graveyard_keeper_2",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/graveyard_keeper_2",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Medieval Dynasty - Hunting Set",
     "slug": "medieval_dynasty_hunting_set",
     "platform": "GOG",
@@ -282,39 +315,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/terminator_dark_fate_defiance_evolution",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Well Dweller",
-    "slug": "well_dweller",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/well_dweller",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "I Have Known You",
-    "slug": "i_have_known_you",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/i_have_known_you",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Reus 2 - Jurassic",
-    "slug": "reus_2_jurassic",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/reus_2_jurassic",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
