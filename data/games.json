@@ -3,7 +3,7 @@
     "title": "Astrea Six Sided Oracles",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-10-01T15:00:00.000Z",
+    "endDate": "2026-11-02T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
     "image": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png"
   },
@@ -27,7 +27,7 @@
     "title": "Monument Valley",
     "platform": "Epic Games",
     "originalPrice": "$7.99",
-    "endDate": "2027-01-07T16:00:00.000Z",
+    "endDate": "2026-11-02T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
@@ -318,5 +318,245 @@
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
+  },
+  {
+    "title": "FNaF: DAYBREAK",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://snowyrey.itch.io/fnaf-daybreak",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "It Reeks of Rot : Spring [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://kiv7u.itch.io/it-reeks-of-spring",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "FailRooms - DEMO",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://leonncamayo.itch.io/failrooms",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Eat not, Want not",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://sitrex.itch.io/eat-not-want-not",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Dating Killmulator",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://coolom-games.itch.io/datingkillmulator",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Community Notes Are Wrong [EXTENDED DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://tenshistudios.itch.io/the-community-notes-are-wrong",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Favored",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://spoiledsweet.itch.io/favored",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Bloody Flower of Teyvat [Genshin Impact Fangame]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://xogua.itch.io/bloody-flower-of-teyvat",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Dating Killmulator 2",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://coolom-games.itch.io/dating-killmulator-2",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Freak Circus",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mrdrnose.itch.io/votv",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Aftermount",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://hempuli.itch.io/aftermount",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "How to Crab to Zero (GMTK 2026)",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://fourquarters.itch.io/how-to-crab-to-zero",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Rock Declutterer",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://leafo.itch.io/rock-declutterer",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "ERROR143",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://jennyvipham.itch.io/error143",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "14 Days With You [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Doki Doki Literature Club!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://teamsalvato.itch.io/ddlc",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Crimson Hunt",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://farelas.itch.io/the-crimson-hunt",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Dressmaker",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://elyaradine.itch.io/dressmaker",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "nudge",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://11ee.itch.io/nudge",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "A Date with Death",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Multi Modal Transit",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://southlondonsilicon.itch.io/multi-modal",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Booster Pack Heroes",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://funday-games.itch.io/booster-pack-heroes",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Mushroom Oasis",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://deerspherestudios.itch.io/mushroom-oasis",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
   }
 ]
