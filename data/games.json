@@ -3,7 +3,7 @@
     "title": "Astrea Six Sided Oracles",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-11-02T16:00:00.000Z",
+    "endDate": "2026-10-01T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
     "image": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png"
   },
@@ -84,6 +84,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/after_the_wane",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Underkeep",
+    "slug": "underkeep",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/underkeep",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -265,6 +276,17 @@
     "freeType": "limited"
   },
   {
+    "title": "SiN Reloaded",
+    "slug": "sin_reloaded",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/sin_reloaded",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Pioneers of Pagonia - Echoes of Aldramar",
     "slug": "pioneers_of_pagonia_echoes_of_aldramar",
     "platform": "GOG",
@@ -293,28 +315,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/medieval_dynasty_hunting_set",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Nighthawks",
-    "slug": "nighthawks",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/nighthawks",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Terminator: Dark Fate - Defiance: Evolution",
-    "slug": "terminator_dark_fate_defiance_evolution",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/terminator_dark_fate_defiance_evolution",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
