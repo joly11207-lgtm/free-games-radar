@@ -3,17 +3,9 @@
     "title": "Astrea Six Sided Oracles",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-11-02T16:00:00.000Z",
+    "endDate": "2026-10-01T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
     "image": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png"
-  },
-  {
-    "title": "Ghostrunner 2",
-    "platform": "Epic Games",
-    "originalPrice": "$39.99",
-    "endDate": "2026-09-24T17:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/ghostrunner-2",
-    "image": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba"
   },
   {
     "title": "LISA: The Definitive Edition",
@@ -24,10 +16,18 @@
     "image": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg"
   },
   {
+    "title": "System Shock 2: 25th Anniversary Remaster",
+    "platform": "Epic Games",
+    "originalPrice": "$29.99",
+    "endDate": "2026-10-08T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9",
+    "image": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg"
+  },
+  {
     "title": "Monument Valley",
     "platform": "Epic Games",
     "originalPrice": "$7.99",
-    "endDate": "2027-01-07T16:00:00.000Z",
+    "endDate": "2026-11-02T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
@@ -40,20 +40,12 @@
     "image": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg"
   },
   {
-    "title": "Mindcop",
+    "title": "BURIED STARS",
     "platform": "Epic Games",
-    "originalPrice": "$14.99",
-    "endDate": "2026-09-24T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/mindcop-78e6c1",
-    "image": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg"
-  },
-  {
-    "title": "Shogun Showdown",
-    "platform": "Epic Games",
-    "originalPrice": "$14.99",
-    "endDate": "2026-09-24T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/shogun-showdown-61832d",
-    "image": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg"
+    "originalPrice": "$39.99",
+    "endDate": "2026-10-08T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/buried-stars-d7c88c",
+    "image": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg"
   },
   {
     "title": "SOMBRAS: negative frames",
@@ -265,12 +257,45 @@
     "freeType": "limited"
   },
   {
-    "title": "Alien Breed 35th Anniversary",
+    "title": "Alien Breed 35th Anniversary - Soundtrack",
+    "slug": "alien_breed_35th_anniversary_soundtrack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/alien_breed_35th_anniversary_soundtrack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Alien Breed 35th Anniversary Collection",
     "slug": "alien_breed_35th_anniversary",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/alien_breed_35th_anniversary",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Fusty Dungeon",
+    "slug": "fusty_dungeon",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/fusty_dungeon",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Fusty Dungeon UNRATED",
+    "slug": "fusty_dungeon_unrated",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/fusty_dungeon_unrated",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -285,278 +310,5 @@
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
-  },
-  {
-    "title": "Pioneers of Pagonia - Echoes of Aldramar",
-    "slug": "pioneers_of_pagonia_echoes_of_aldramar",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/pioneers_of_pagonia_echoes_of_aldramar",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Graveyard Keeper 2",
-    "slug": "graveyard_keeper_2",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/graveyard_keeper_2",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Medieval Dynasty - Hunting Set",
-    "slug": "medieval_dynasty_hunting_set",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/medieval_dynasty_hunting_set",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "SUNDRY HEART BETA",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://surrtasm.itch.io/sundry-heart",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "FNaF: DAYBREAK",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://snowyrey.itch.io/fnaf-daybreak",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "It Reeks of Rot : Spring [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://kiv7u.itch.io/it-reeks-of-spring",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "FailRooms - DEMO",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://leonncamayo.itch.io/failrooms",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Eat not, Want not",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://sitrex.itch.io/eat-not-want-not",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Prey Who Prayed",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://kiv7u.itch.io/the-prey-who-prayed",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Community Notes Are Wrong [EXTENDED DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://tenshistudios.itch.io/the-community-notes-are-wrong",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "nudge",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://11ee.itch.io/nudge",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Terraformer Wars",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://16bitnights.itch.io/terraformer-wars",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Hostage Heart",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://tenshistudios.itch.io/hostage-heart",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Favored",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://spoiledsweet.itch.io/favored",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "ERROR143",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://jennyvipham.itch.io/error143",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "14 Days With You [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://cutiesai.itch.io/14dayswithyou",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Dating Killmulator",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://coolom-games.itch.io/datingkillmulator",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Multi Modal Transit",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://southlondonsilicon.itch.io/multi-modal",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Dressmaker",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://elyaradine.itch.io/dressmaker",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Bloody Flower of Teyvat [Genshin Impact Fangame]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://xogua.itch.io/bloody-flower-of-teyvat",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Doki Doki Literature Club!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://teamsalvato.itch.io/ddlc",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Freak Circus",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://garula.itch.io/the-freak-circus",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Aftermount",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://hempuli.itch.io/aftermount",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "How to Crab to Zero (GMTK 2026)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://fourquarters.itch.io/how-to-crab-to-zero",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Dating Killmulator 2",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://coolom-games.itch.io/dating-killmulator-2",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Mushroom Oasis",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://deerspherestudios.itch.io/mushroom-oasis",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
   }
 ]
