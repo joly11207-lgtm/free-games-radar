@@ -169,6 +169,17 @@
     "freeType": "limited"
   },
   {
+    "title": "FIRE AND ASHES",
+    "slug": "fire_and_ashes",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/fire_and_ashes",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Total War: SHOGUN 2 - Complete Edition",
     "slug": "total_war_shogun_2_complete_edition",
     "platform": "GOG",
@@ -296,17 +307,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/fusty_dungeon_unrated",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "SiN Reloaded",
-    "slug": "sin_reloaded",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/sin_reloaded",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
