@@ -27,7 +27,7 @@
     "title": "Monument Valley",
     "platform": "Epic Games",
     "originalPrice": "$7.99",
-    "endDate": "2026-11-02T16:00:00.000Z",
+    "endDate": "2027-01-07T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
@@ -235,6 +235,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Log Away - Halloween DLC",
+    "slug": "log_away_halloween_dlc",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/log_away_halloween_dlc",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Okko The Exiled",
     "slug": "okko_the_exiled",
     "platform": "GOG",
@@ -296,17 +307,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/fusty_dungeon",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Fusty Dungeon UNRATED",
-    "slug": "fusty_dungeon_unrated",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/fusty_dungeon_unrated",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
