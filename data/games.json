@@ -1,11 +1,11 @@
 [
   {
-    "title": "Astrea Six Sided Oracles",
+    "title": "Ghostrunner 2",
     "platform": "Epic Games",
-    "originalPrice": "$24.99",
-    "endDate": "2026-10-01T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
-    "image": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png"
+    "originalPrice": "$39.99",
+    "endDate": "2027-01-07T23:59:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/ghostrunner-2",
+    "image": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba"
   },
   {
     "title": "LISA: The Definitive Edition",
@@ -24,6 +24,14 @@
     "image": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg"
   },
   {
+    "title": "Out of Sight",
+    "platform": "Epic Games",
+    "originalPrice": "$14.99",
+    "endDate": "2026-10-15T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/out-of-sight-b96ca8",
+    "image": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg"
+  },
+  {
     "title": "System Shock 2: 25th Anniversary Remaster",
     "platform": "Epic Games",
     "originalPrice": "$29.99",
@@ -40,20 +48,20 @@
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
   {
-    "title": "Mechabellum",
-    "platform": "Epic Games",
-    "originalPrice": "$14.99",
-    "endDate": "2026-10-01T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/mechabellum-88a843",
-    "image": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg"
-  },
-  {
     "title": "BURIED STARS",
     "platform": "Epic Games",
     "originalPrice": "$39.99",
     "endDate": "2026-10-08T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/buried-stars-d7c88c",
     "image": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg"
+  },
+  {
+    "title": "TerraScape",
+    "platform": "Epic Games",
+    "originalPrice": "$16.99",
+    "endDate": "2026-10-15T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/terrascape-2b12b1",
+    "image": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png"
   },
   {
     "title": "SOMBRAS: negative frames",
@@ -95,6 +103,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/underkeep",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Age of Wonders 4: The Silver Seas",
+    "slug": "age_of_wonders_4_the_silver_seas",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/age_of_wonders_4_the_silver_seas",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -177,6 +196,28 @@
     "freeType": "limited"
   },
   {
+    "title": "Penguin Colony",
+    "slug": "penguin_colony",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/penguin_colony",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Odd Town",
+    "slug": "odd_town",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/odd_town",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "FIRE AND ASHES",
     "slug": "fire_and_ashes",
     "platform": "GOG",
@@ -243,6 +284,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Age of Wonders 4: Expansion Pass 4",
+    "slug": "age_of_wonders_4_expansion_pass_4",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/age_of_wonders_4_expansion_pass_4",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Bulwark: Falconeer Chronicles - Medieval Houses",
     "slug": "bulwark_evolution_falconeer_chronicles_medieval_house_dlc",
     "platform": "GOG",
@@ -265,58 +317,254 @@
     "freeType": "limited"
   },
   {
-    "title": "Combat Mission: Cold War - Battle Pack",
-    "slug": "combat_mission_cold_war_battle_pack",
+    "title": "Love and Sex: Second Base - Cupid's Game",
+    "slug": "love_and_sex_second_base_cupids_game",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/combat_mission_cold_war_battle_pack",
+    "url": "https://www.gog.com/en/game/love_and_sex_second_base_cupids_game",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Okko The Exiled",
-    "slug": "okko_the_exiled",
-    "platform": "GOG",
+    "title": "Helping Your Boyfriend",
+    "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/okko_the_exiled",
+    "url": "https://zieelane.itch.io/helping-your-boyfriend",
     "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
+    "source": "itch.io Official",
+    "freeType": "permanent"
   },
   {
-    "title": "Okko The Exiled Deluxe Edition",
-    "slug": "okko_the_exiled_deluxe_edition",
-    "platform": "GOG",
+    "title": "Remember",
+    "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/okko_the_exiled_deluxe_edition",
+    "url": "https://xlaucifer.itch.io/remember",
     "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
+    "source": "itch.io Official",
+    "freeType": "permanent"
   },
   {
-    "title": "Okko The Exiled Original Soundtrack",
-    "slug": "okko_the_exiled_original_soundtrack",
-    "platform": "GOG",
+    "title": "Next Station: The Moon [DEMO]",
+    "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/okko_the_exiled_original_soundtrack",
+    "url": "https://comfortkuma.itch.io/next-station-the-moon",
     "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
+    "source": "itch.io Official",
+    "freeType": "permanent"
   },
   {
-    "title": "Escape from 8-Bit High",
-    "slug": "escape_from_8bit_high",
-    "platform": "GOG",
+    "title": "Bleach &amp; Blood",
+    "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/escape_from_8bit_high",
+    "url": "https://thewindyproject.itch.io/bleach-and-blood",
     "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Neo Forge: MTG Commander vs AI",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://dokkodolabs.itch.io/neo-forge",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Angel Act",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://sudachys.itch.io/the-angel-act",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "SPLOOB",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mors-games.itch.io/sploob",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "OBSESSION♡SYNDROME [WIP]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://ikemenaddicts.itch.io/obsessionsyndrome",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Parasomnia: No REM",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://belsgames.itch.io/parasomnia-no-rem",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Spaghetti Celesti: Devour the Heavens",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://punkcake.itch.io/spaghetti-celesti",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Steal Me Softly",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://linglyum.itch.io/steal-me-softly",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "A Mirror&#039;s Curse SFW",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://amaty.itch.io/a-mirrors-curse-sfw",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Tokidoki Tactical Squad",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://cuteshadow.itch.io/tokidoki-tactical-squad",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Leaftaker",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://k-ramstack.itch.io/leaftaker",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Freak Circus",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Arcade DEMO",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://colourplay-games.itch.io/the-arcade-demo",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "After Me Demo",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://askgames.itch.io/after-me-demo",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mrdrnose.itch.io/votv",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "All The Birds",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://chaostheorygames.itch.io/all-the-birds",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Magical Greenhouse",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://lyamgtt.itch.io/magical-greenhouse",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Stoneheart Archive",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://chaostheorygames.itch.io/stoneheart-archive",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Highschool J",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://umigamestudios.itch.io/highschool-j",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Where is Mrs Peregrine?",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://konayachi.itch.io/peregrine",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Yuuki&#039;s Sky Demo",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://umistudiogame.itch.io/yuukisky-demo",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
   }
 ]
