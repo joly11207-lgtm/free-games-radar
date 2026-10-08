@@ -11,7 +11,7 @@
     "title": "LISA: The Definitive Edition",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-11-10T06:59:00.000Z",
+    "endDate": "2027-01-07T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
     "image": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg"
   },
@@ -32,28 +32,28 @@
     "image": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg"
   },
   {
-    "title": "System Shock 2: 25th Anniversary Remaster",
-    "platform": "Epic Games",
-    "originalPrice": "$29.99",
-    "endDate": "2026-10-08T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9",
-    "image": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg"
-  },
-  {
     "title": "Monument Valley",
     "platform": "Epic Games",
     "originalPrice": "$7.99",
-    "endDate": "2026-11-02T16:00:00.000Z",
+    "endDate": "2027-01-07T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
   {
-    "title": "BURIED STARS",
+    "title": "Bad Cheese",
     "platform": "Epic Games",
-    "originalPrice": "$39.99",
-    "endDate": "2026-10-08T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/buried-stars-d7c88c",
-    "image": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg"
+    "originalPrice": "$12.99",
+    "endDate": "2026-10-22T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/bad-cheese-4256d9",
+    "image": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png"
+  },
+  {
+    "title": "Agent A: A puzzle in disguise",
+    "platform": "Epic Games",
+    "originalPrice": "$19.99",
+    "endDate": "2026-10-22T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f",
+    "image": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png"
   },
   {
     "title": "TerraScape",
@@ -62,6 +62,17 @@
     "endDate": "2026-10-15T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/terrascape-2b12b1",
     "image": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png"
+  },
+  {
+    "title": "Trainwatch",
+    "slug": "trainwatch",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/trainwatch",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
   },
   {
     "title": "SOMBRAS: negative frames",
@@ -317,14 +328,243 @@
     "freeType": "limited"
   },
   {
-    "title": "Echo Weaver",
-    "slug": "echo_weaver",
-    "platform": "GOG",
+    "title": "FORGET ME NOT",
+    "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/echo_weaver",
+    "url": "https://pepsica.itch.io/forget-me-not",
     "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Thornewood",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://steamberry.itch.io/thornewood",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Toss Office",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://ravenous-den.itch.io/toss-office",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Cat With Knife : A Pop-Punk Mix",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://i-choose-paradise.itch.io/cat-with-knife",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "PIG IRON",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://posmnaut.itch.io/pig-iron",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Freak Circus",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Five Nights At Freddy&#039;s: THE FLIPSIDE RPG",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://the-blue-hatted.itch.io/fnaftheflipside",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Caso: Northport",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://entityzeta.itch.io/caso-northport",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Bleeding In Ink",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://junekazoo.itch.io/bleeding-in-ink",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Helping Your Boyfriend",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://zieelane.itch.io/helping-your-boyfriend",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Alpine",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://oddly-shaped-pixels.itch.io/alpine",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Annual Ghost Town Pumpkin Festival",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://adamgryu.itch.io/pumpkin-carver",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Yes, Comrade.",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://hugimugi7.itch.io/yes-comrade",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "sweet instincts",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://3005jin.itch.io/sweet-instincts",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Rulehouse",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://dalichrome.itch.io/house-rules",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mrdrnose.itch.io/votv",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Dressmaker",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://elyaradine.itch.io/dressmaker",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Margot Collapse",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://funday-games.itch.io/the-margot-collapse",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "ERROR143",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://jennyvipham.itch.io/error143",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "A Date with Death",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Doki Doki Literature Club!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://teamsalvato.itch.io/ddlc",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "14 Days With You [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "OVERD0SE",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mookichuu.itch.io/overdose",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "My Fiancé is a Fiend [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://akilargie.itch.io/my-fiance-is-a-fiend",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
   }
 ]
