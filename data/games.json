@@ -11,7 +11,7 @@
     "title": "LISA: The Definitive Edition",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-11-10T06:59:00.000Z",
+    "endDate": "2027-01-07T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
     "image": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg"
   },
@@ -35,7 +35,7 @@
     "title": "Monument Valley",
     "platform": "Epic Games",
     "originalPrice": "$7.99",
-    "endDate": "2027-01-07T16:00:00.000Z",
+    "endDate": "2026-11-02T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
@@ -273,6 +273,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Thank You Bus Driver",
+    "slug": "thank_you_bus_driver",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/thank_you_bus_driver",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Total War: SHOGUN 2 - Complete Edition",
     "slug": "total_war_shogun_2_complete_edition",
     "platform": "GOG",
@@ -306,265 +317,14 @@
     "freeType": "limited"
   },
   {
-    "title": "Botlings",
-    "slug": "botlings",
+    "title": "Blaster!",
+    "slug": "blaster",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/botlings",
+    "url": "https://www.gog.com/en/game/blaster",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
-  },
-  {
-    "title": "Permafrost",
-    "slug": "permafrost",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/permafrost",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "FORGET ME NOT",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://pepsica.itch.io/forget-me-not",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Thornewood",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://steamberry.itch.io/thornewood",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Toss Office",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://ravenous-den.itch.io/toss-office",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Margot Collapse",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://funday-games.itch.io/the-margot-collapse",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Cat With Knife : A Pop-Punk Mix",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://i-choose-paradise.itch.io/cat-with-knife",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Yes, Comrade.",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://hugimugi7.itch.io/yes-comrade",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "PIG IRON",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://posmnaut.itch.io/pig-iron",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Annual Ghost Town Pumpkin Festival",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://adamgryu.itch.io/pumpkin-carver",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Freak Circus",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://garula.itch.io/the-freak-circus",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Five Nights At Freddy&#039;s: THE FLIPSIDE RPG",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://the-blue-hatted.itch.io/fnaftheflipside",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Bleeding In Ink",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://junekazoo.itch.io/bleeding-in-ink",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Dressmaker",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://elyaradine.itch.io/dressmaker",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Alpine",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://oddly-shaped-pixels.itch.io/alpine",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Caso: Northport",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://entityzeta.itch.io/caso-northport",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "sweet instincts",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://3005jin.itch.io/sweet-instincts",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Project C.A.R.L",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://carlragdoll.itch.io/carl",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Rulehouse",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://dalichrome.itch.io/house-rules",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "14 Days With You [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://cutiesai.itch.io/14dayswithyou",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "ERROR143",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://jennyvipham.itch.io/error143",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Doki Doki Literature Club!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://teamsalvato.itch.io/ddlc",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Helping Your Boyfriend",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://zieelane.itch.io/helping-your-boyfriend",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Kingdom Of Marionettes (DEMO)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://thepipiw.itch.io/kingdom-of-marionettes",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "A Date with Death",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
   }
 ]
