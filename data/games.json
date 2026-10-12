@@ -295,34 +295,34 @@
     "freeType": "limited"
   },
   {
+    "title": "Anvil United! Demo",
+    "slug": "anvil_united_demo",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/anvil_united_demo",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Arms of God Demo",
+    "slug": "arms_of_god_demo",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/arms_of_god_demo",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Battleplan",
     "slug": "battleplan",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/battleplan",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Heart of the Machine - Kinship",
-    "slug": "heart_of_the_machine_kinship",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/heart_of_the_machine_kinship",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Blaster!",
-    "slug": "blaster",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/blaster",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
