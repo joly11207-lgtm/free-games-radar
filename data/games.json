@@ -1,5 +1,13 @@
 [
   {
+    "title": "Eternal Threads",
+    "platform": "Epic Games",
+    "originalPrice": "$19.99",
+    "endDate": "2026-11-02T16:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/eternal-threads-197169",
+    "image": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg"
+  },
+  {
     "title": "Ghostrunner 2",
     "platform": "Epic Games",
     "originalPrice": "$39.99",
@@ -11,7 +19,7 @@
     "title": "LISA: The Definitive Edition",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2027-01-07T16:00:00.000Z",
+    "endDate": "2026-11-10T06:59:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
     "image": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg"
   },
@@ -251,6 +259,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Tenebris Somnia",
+    "slug": "tenebris_somnia",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/tenebris_somnia",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Odd Town",
     "slug": "odd_town",
     "platform": "GOG",
@@ -284,45 +303,34 @@
     "freeType": "limited"
   },
   {
+    "title": "Allogloom",
+    "slug": "allogloom",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/allogloom",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Allogloom - Original Soundtrack",
+    "slug": "allogloom_original_soundtrack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/allogloom_original_soundtrack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Total War: SHOGUN 2 - Complete Edition",
     "slug": "total_war_shogun_2_complete_edition",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/total_war_shogun_2_complete_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Anvil United! Demo",
-    "slug": "anvil_united_demo",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/anvil_united_demo",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Arms of God Demo",
-    "slug": "arms_of_god_demo",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/arms_of_god_demo",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Battleplan",
-    "slug": "battleplan",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/battleplan",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
