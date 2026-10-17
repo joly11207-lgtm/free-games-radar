@@ -19,7 +19,7 @@
     "title": "LISA: The Definitive Edition",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-11-10T06:59:00.000Z",
+    "endDate": "2027-01-07T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
     "image": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg"
   },
@@ -386,21 +386,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Heartfall — A Tale in Three Lives",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://kazehita.itch.io/heartfall-a-tale-in-three-lives",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "I Can Smell You from Here",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://catproblem9735.itch.io/i-can-smell-you-from-here",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Heartfall — A Tale in Three Lives",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://kazehita.itch.io/heartfall-a-tale-in-three-lives",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -416,11 +416,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Morningbelle",
+    "title": "Kenzu: Shadow and Light",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://wednesday888.itch.io/morningbelle",
+    "url": "https://lambdaforge.itch.io/kenzu",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -436,51 +436,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Say That You Love Me",
+    "title": "Morningbelle",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://writer31.itch.io/say-that-you-love-me",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Kenzu: Shadow and Light",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://lambdaforge.itch.io/kenzu",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Trust the System",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://soliles.itch.io/trust-the-system",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Plaguebound",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://ostsergey.itch.io/plaguebound",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Physician Simulator (Demo)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://shishkin-blog.itch.io/therapist-simulator",
+    "url": "https://wednesday888.itch.io/morningbelle",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -496,6 +456,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "Say That You Love Me",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://writer31.itch.io/say-that-you-love-me",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Ambermoon.net",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -506,21 +476,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Pokémon Overlord",
+    "title": "Physician Simulator (Demo)",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://jab-lao.itch.io/pokemon-overlord",
+    "url": "https://shishkin-blog.itch.io/therapist-simulator",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "The Tale of the Cloistered Crown",
+    "title": "Trust the System",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://tabbiedearest.itch.io/cloistered-crown",
+    "url": "https://soliles.itch.io/trust-the-system",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -536,11 +506,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "The Freak Circus",
+    "title": "Plaguebound",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://garula.itch.io/the-freak-circus",
+    "url": "https://ostsergey.itch.io/plaguebound",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Pokémon Overlord",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://jab-lao.itch.io/pokemon-overlord",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -556,21 +536,41 @@
     "freeType": "permanent"
   },
   {
-    "title": "Himbo Hymns",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://lil-beastman.itch.io/himbo-hymns",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Legend of Idle",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://activedev.itch.io/legend-of-idle-playtest-demo",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Tale of the Cloistered Crown",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://tabbiedearest.itch.io/cloistered-crown",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "One More Rock! - Demo",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://pufffugu.itch.io/omr",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Amber Forest",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://auguste-eden.itch.io/amber-forest",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
