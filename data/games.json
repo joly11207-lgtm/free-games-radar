@@ -149,6 +149,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Abashed",
+    "slug": "abashed",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/abashed",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Age of Wonders 4: The Silver Seas",
     "slug": "age_of_wonders_4_the_silver_seas",
     "platform": "GOG",
@@ -281,6 +292,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Office Party Tech Demo",
+    "slug": "office_party_tech_demo",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/office_party_tech_demo",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Beyond These Stars",
     "slug": "beyond_these_stars",
     "platform": "GOG",
@@ -309,28 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/penguin_colony_deluxe_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Tenebris Somnia",
-    "slug": "tenebris_somnia",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/tenebris_somnia",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Heroes of Science and Fiction - Xenauri faction",
-    "slug": "heroes_of_science_and_fiction_xenauri_faction",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/heroes_of_science_and_fiction_xenauri_faction",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
