@@ -83,12 +83,34 @@
     "freeType": "limited"
   },
   {
+    "title": "Outward 2",
+    "slug": "outward_2",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/outward_2",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "SOMBRAS: negative frames",
     "slug": "sombras_negative_frames",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/sombras_negative_frames",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Stellaris: Willpower",
+    "slug": "stellaris_willpower",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/stellaris_willpower",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -309,28 +331,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/beyond_these_stars",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Penguin Colony",
-    "slug": "penguin_colony",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/penguin_colony",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Penguin Colony Deluxe Edition",
-    "slug": "penguin_colony_deluxe_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/penguin_colony_deluxe_edition",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
