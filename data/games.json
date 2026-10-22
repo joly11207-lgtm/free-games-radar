@@ -40,28 +40,20 @@
     "image": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg"
   },
   {
+    "title": "Sorry We're Closed",
+    "platform": "Epic Games",
+    "originalPrice": "$24.99",
+    "endDate": "2026-11-02T16:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86",
+    "image": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png"
+  },
+  {
     "title": "Monument Valley",
     "platform": "Epic Games",
     "originalPrice": "$7.99",
     "endDate": "2026-11-02T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
-  },
-  {
-    "title": "Bad Cheese",
-    "platform": "Epic Games",
-    "originalPrice": "$12.99",
-    "endDate": "2026-10-22T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/bad-cheese-4256d9",
-    "image": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png"
-  },
-  {
-    "title": "Agent A: A puzzle in disguise",
-    "platform": "Epic Games",
-    "originalPrice": "$19.99",
-    "endDate": "2026-10-22T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f",
-    "image": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png"
   },
   {
     "title": "Home - A Unique Horror Adventure",
