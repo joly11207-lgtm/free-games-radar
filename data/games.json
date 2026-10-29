@@ -1,5 +1,13 @@
 [
   {
+    "title": "Idle Champions of the Forgotten Realms",
+    "platform": "Epic Games",
+    "originalPrice": "0",
+    "endDate": "2026-11-12T16:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
+    "image": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xbn9.jpg"
+  },
+  {
     "title": "Eternal Threads",
     "platform": "Epic Games",
     "originalPrice": "$19.99",
@@ -22,14 +30,6 @@
     "endDate": "2027-01-07T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
     "image": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg"
-  },
-  {
-    "title": "Sker Ritual",
-    "platform": "Epic Games",
-    "originalPrice": "$24.99",
-    "endDate": "2026-10-29T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/sker-ritual-aac702",
-    "image": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-14x61.jpg"
   },
   {
     "title": "Castlevania Anniversary Collection",
@@ -56,12 +56,12 @@
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
   },
   {
-    "title": "Home - A Unique Horror Adventure",
+    "title": "Flotsam",
     "platform": "Epic Games",
-    "originalPrice": "$4.99",
-    "endDate": "2026-10-29T15:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/home-19212a",
-    "image": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png"
+    "originalPrice": "$24.99",
+    "endDate": "2026-11-12T16:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/flotsam-266287",
+    "image": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg"
   },
   {
     "title": "Trainwatch",
@@ -136,6 +136,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/space_station_designer",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Wall World Strategy",
+    "slug": "wall_world_strategy",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/wall_world_strategy",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -251,6 +262,17 @@
     "freeType": "limited"
   },
   {
+    "title": "As Long As She Forgot",
+    "slug": "as_long_as_she_forgot",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/as_long_as_she_forgot",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Cairn - On the Trail: Deep Water",
     "slug": "cairn_on_the_trail_deep_water",
     "platform": "GOG",
@@ -273,56 +295,34 @@
     "freeType": "limited"
   },
   {
-    "title": "Heir of the Dog",
-    "slug": "heir_of_the_dog",
+    "title": "COP BASTARD Deluxe Edition",
+    "slug": "cop_bastard_deluxe_edition",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/heir_of_the_dog",
+    "url": "https://www.gog.com/en/game/cop_bastard_deluxe_edition",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Willy and Charlie: Solitaire",
-    "slug": "willy_and_charlie_solitaire",
+    "title": "COP BASTARD Digital Compendium",
+    "slug": "cop_bastard_digital_compendium",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/willy_and_charlie_solitaire",
+    "url": "https://www.gog.com/en/game/cop_bastard_digital_compendium",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Fantasy World Manager",
-    "slug": "fantasy_world_manager",
+    "title": "COP BASTARD Soundtrack",
+    "slug": "cop_bastard_soundtrack",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/fantasy_world_manager",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Gennady",
-    "slug": "gennady",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/gennady",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Gennady + Soundtrack",
-    "slug": "gennady_bundle",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/gennady_bundle",
+    "url": "https://www.gog.com/en/game/cop_bastard_soundtrack",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
