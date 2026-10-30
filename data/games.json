@@ -43,7 +43,7 @@
     "title": "Sorry We're Closed",
     "platform": "Epic Games",
     "originalPrice": "$24.99",
-    "endDate": "2026-11-02T16:00:00.000Z",
+    "endDate": "2026-11-05T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86",
     "image": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png"
   },
@@ -240,6 +240,39 @@
     "freeType": "limited"
   },
   {
+    "title": "Dead of the Brain",
+    "slug": "dead_of_the_brain",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/dead_of_the_brain",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "INTERNS",
+    "slug": "interns",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/interns",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "KIBORG: Body Split",
+    "slug": "kiborg_body_split",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/kiborg_body_split",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Sleepytime Village",
     "slug": "sleepytime_village",
     "platform": "GOG",
@@ -295,39 +328,6 @@
     "freeType": "limited"
   },
   {
-    "title": "COP BASTARD Deluxe Edition",
-    "slug": "cop_bastard_deluxe_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/cop_bastard_deluxe_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "COP BASTARD Digital Compendium",
-    "slug": "cop_bastard_digital_compendium",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/cop_bastard_digital_compendium",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "COP BASTARD Soundtrack",
-    "slug": "cop_bastard_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/cop_bastard_soundtrack",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
     "title": "&quot;Voices Of The Void&quot; Alpha",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -348,6 +348,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "Interact With Me!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://tomyself.itch.io/interact-with-me",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "To Eat a God",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -363,16 +373,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://coolom-games.itch.io/dating-killmulator-2",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Interact With Me!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://tomyself.itch.io/interact-with-me",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -408,21 +408,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "if you stay",
+    "title": "CreepyDates",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://yukimisoft.itch.io/if-you-stay",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Rotten Machines",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://kenforest.itch.io/rotten-machines",
+    "url": "https://hahadit.itch.io/creepydates",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -438,6 +428,26 @@
     "freeType": "permanent"
   },
   {
+    "title": "Rotten Machines",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://kenforest.itch.io/rotten-machines",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Freak Circus",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Love is Strange",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -448,61 +458,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "CreepyDates",
+    "title": "if you stay",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://hahadit.itch.io/creepydates",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Amoris",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://xiaonur.itch.io/amoris",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Golem Quest",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://barribob.itch.io/golem-quest",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "ERROR143",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://jennyvipham.itch.io/error143",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Doki Doki Literature Club!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://teamsalvato.itch.io/ddlc",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "14 Days With You [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "url": "https://yukimisoft.itch.io/if-you-stay",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -518,11 +478,31 @@
     "freeType": "permanent"
   },
   {
-    "title": "Costa Sul",
+    "title": "Doki Doki Literature Club!",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://natitawrites.itch.io/costa-sul",
+    "url": "https://teamsalvato.itch.io/ddlc",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "ERROR143",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://jennyvipham.itch.io/error143",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "14 Days With You [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://cutiesai.itch.io/14dayswithyou",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -548,6 +528,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "Amoris",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://xiaonur.itch.io/amoris",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Mindustry",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -558,11 +548,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "The Freak Circus",
+    "title": "A Date with Death",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://garula.itch.io/the-freak-circus",
+    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Golem Quest",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://barribob.itch.io/golem-quest",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
