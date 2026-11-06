@@ -78,6 +78,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Lelu",
+    "slug": "lelu",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/lelu",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Emberville",
     "slug": "emberville",
     "platform": "GOG",
@@ -265,6 +276,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Pool of Radiance: Ruins of Myth Drannor",
+    "slug": "pool_of_radiance_ruins_of_myth_drannor",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/pool_of_radiance_ruins_of_myth_drannor",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Cash is King! - Supporter Pack",
     "slug": "cash_is_king_supporter_pack",
     "platform": "GOG",
@@ -293,28 +315,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/cash_is_king_business_simulator",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Cash is King! Premium Edition",
-    "slug": "cash_is_king_premium_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/cash_is_king_premium_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Cash is King! Supporter Edition",
-    "slug": "cash_is_king_supporter_edition",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/cash_is_king_supporter_edition",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -380,21 +380,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "U DON&#039;T GET IT",
+    "title": "&quot;Voices Of The Void&quot; Alpha",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://vhan-5.itch.io/u-dont-get-it",
+    "url": "https://mrdrnose.itch.io/votv",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Never Made It Home",
+    "title": "U DON&#039;T GET IT",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://grave-hour-studios.itch.io/never-made-it-home",
+    "url": "https://vhan-5.itch.io/u-dont-get-it",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -410,21 +410,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Automated Love Obsession",
+    "title": "Never Made It Home",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://laurzzz.itch.io/automated-love-obsession",
+    "url": "https://grave-hour-studios.itch.io/never-made-it-home",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "title": "Automated Love Obsession",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
+    "url": "https://laurzzz.itch.io/automated-love-obsession",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -440,31 +440,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "LAVOICE",
+    "title": "A Date with Death",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://tsomyst.itch.io/lavoice",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The MachinEGG",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://quantumgames-studio.itch.io/the-machinegg",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "To Eat a God",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://soffis-mbm.itch.io/to-eat-a-god",
+    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -480,61 +460,31 @@
     "freeType": "permanent"
   },
   {
+    "title": "To Eat a God",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://soffis-mbm.itch.io/to-eat-a-god",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "LAVOICE",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://tsomyst.itch.io/lavoice",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "TOUCHSTARVED: A Dark Romance Visual Novel",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://redspringstudio.itch.io/touchstarved",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "With Bruised Blood",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://tairer.itch.io/with-bruised-blood",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Doki Doki Literature Club!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://teamsalvato.itch.io/ddlc",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Farm Island",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://sillywunkus.itch.io/farm-island",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "A Date with Death",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Roc&#039;n Rope",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://brokenbytes.itch.io/roc-n-rope",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -550,11 +500,61 @@
     "freeType": "permanent"
   },
   {
+    "title": "The MachinEGG",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://quantumgames-studio.itch.io/the-machinegg",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Doki Doki Literature Club!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://teamsalvato.itch.io/ddlc",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Freak Circus",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "CreepyDates",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://hahadit.itch.io/creepydates",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "With Bruised Blood",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://tairer.itch.io/with-bruised-blood",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Farm Island",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://sillywunkus.itch.io/farm-island",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
