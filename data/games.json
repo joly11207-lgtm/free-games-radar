@@ -232,6 +232,50 @@
     "freeType": "limited"
   },
   {
+    "title": "Imperial Grace - Artbook",
+    "slug": "imperial_grace_artbook",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/imperial_grace_artbook",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Imperial Grace - Guidebook",
+    "slug": "imperial_grace_guidebook",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/imperial_grace_guidebook",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Imperial Grace Soundtrack",
+    "slug": "imperial_grace_soundtrack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/imperial_grace_soundtrack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Imperial Grace: Mature Content Bonus",
+    "slug": "imperial_grace_mature_content_bonus",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/imperial_grace_mature_content_bonus",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Wall World Strategy",
     "slug": "wall_world_strategy",
     "platform": "GOG",
@@ -271,50 +315,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/vampire_the_masquerade_oaths_ashes",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Warhammer Survivors",
-    "slug": "warhammer_survivors",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/warhammer_survivors",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "ONE FENIX DOWN",
-    "slug": "one_fenix_down",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/one_fenix_down",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Pool of Radiance: Ruins of Myth Drannor",
-    "slug": "pool_of_radiance_ruins_of_myth_drannor",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/pool_of_radiance_ruins_of_myth_drannor",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Cash is King! - Supporter Pack",
-    "slug": "cash_is_king_supporter_pack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/cash_is_king_supporter_pack",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
