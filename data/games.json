@@ -56,6 +56,17 @@
     "image": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png"
   },
   {
+    "title": "Shadow of the Road",
+    "slug": "shadow_of_the_road",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/shadow_of_the_road",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Trainwatch",
     "slug": "trainwatch",
     "platform": "GOG",
@@ -84,6 +95,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/warhammer_40000_dark_heresy",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Crystals Of Irm",
+    "slug": "crystals_of_irm",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/crystals_of_irm",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -221,6 +243,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Littlelands",
+    "slug": "littlelands",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/littlelands",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "DERELIKT",
     "slug": "derelikt",
     "platform": "GOG",
@@ -285,278 +318,5 @@
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
-  },
-  {
-    "title": "Wall World Strategy",
-    "slug": "wall_world_strategy",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/wall_world_strategy",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "After the Wane",
-    "slug": "after_the_wane",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/after_the_wane",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Diplomacy is Not an Option: Fog of War",
-    "slug": "diplomacy_is_not_an_option_fog_of_war",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/diplomacy_is_not_an_option_fog_of_war",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Tower of Gold",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://remar-games.itch.io/tower-of-gold",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "How to date a Sleep Paralysis Demon- Part 2(Demo)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://sfour-s4.itch.io/how-to-date-a-sleep-paralysis-demon",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Season Shift",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://emlise.itch.io/seasonshift",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "guesthour",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mymadnessworks.itch.io/guesthour",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Dating Killmulator",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://coolom-games.itch.io/datingkillmulator",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "TOUCHSTARVED: A Dark Romance Visual Novel",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://redspringstudio.itch.io/touchstarved",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "ERROR143",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://jennyvipham.itch.io/error143",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Earth ReGen",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://disagreeg.itch.io/earth-regen",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "To Eat a God",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://soffis-mbm.itch.io/to-eat-a-god",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "14 Days With You [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://cutiesai.itch.io/14dayswithyou",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "A Date with Death",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "The Freak Circus",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://garula.itch.io/the-freak-circus",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "CreepyDates",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://hahadit.itch.io/creepydates",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "BLEEDING",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://depra.itch.io/bleeding",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Doki Doki Literature Club!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://teamsalvato.itch.io/ddlc",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Mushroom Oasis",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://deerspherestudios.itch.io/mushroom-oasis",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Online Obsession",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://sourmiiiilk.itch.io/online-obsession",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "U DON&#039;T GET IT",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://vhan-5.itch.io/u-dont-get-it",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Mindustry",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://anuke.itch.io/mindustry",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Big Bad Dogs",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://spar0w.itch.io/bigbaddogs",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "My Fiancé is a Fiend [DEMO]",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://akilargie.itch.io/my-fiance-is-a-fiend",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Don&#039;t eat the cashier!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://detcc.itch.io/dont-eat-the-cashier",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Kingdom Of Marionettes (DEMO)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://thepipiw.itch.io/kingdom-of-marionettes",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
   }
 ]
