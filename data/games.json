@@ -243,6 +243,17 @@
     "freeType": "limited"
   },
   {
+    "title": "The Last Gas Station - Winter Resort",
+    "slug": "the_last_gas_station_winter_resort",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_last_gas_station_winter_resort",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Littlelands",
     "slug": "littlelands",
     "platform": "GOG",
@@ -304,17 +315,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/imperial_grace_soundtrack",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Imperial Grace: Mature Content Bonus",
-    "slug": "imperial_grace_mature_content_bonus",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/imperial_grace_mature_content_bonus",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
