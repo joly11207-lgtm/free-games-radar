@@ -298,23 +298,23 @@
     "freeType": "limited"
   },
   {
+    "title": "Imperial Grace - Deluxe Edition",
+    "slug": "imperial_grace_deluxe_edition",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/imperial_grace_deluxe_edition",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Imperial Grace - Guidebook",
     "slug": "imperial_grace_guidebook",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/imperial_grace_guidebook",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Imperial Grace Soundtrack",
-    "slug": "imperial_grace_soundtrack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/imperial_grace_soundtrack",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
