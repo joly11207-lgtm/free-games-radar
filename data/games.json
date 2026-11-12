@@ -155,6 +155,17 @@
     "freeType": "limited"
   },
   {
+    "title": "The Planet Crafter - Magnetaris",
+    "slug": "the_planet_crafter_magnetaris",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_planet_crafter_magnetaris",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Warhammer 40,000: Rogue Trader - Processional of the Damned",
     "slug": "warhammer_40000_rogue_trader_processional_of_the_damned",
     "platform": "GOG",
@@ -304,17 +315,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/imperial_grace_deluxe_edition",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Imperial Grace - Guidebook",
-    "slug": "imperial_grace_guidebook",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/imperial_grace_guidebook",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
