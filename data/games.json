@@ -1,5 +1,13 @@
 [
   {
+    "title": "Firestone – Idle Clicker Online RPG",
+    "platform": "Epic Games",
+    "originalPrice": "0",
+    "endDate": "2026-12-03T16:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+    "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-i52vr.jpg"
+  },
+  {
     "title": "Ghostrunner 2",
     "platform": "Epic Games",
     "originalPrice": "$39.99",
@@ -202,6 +210,28 @@
     "freeType": "limited"
   },
   {
+    "title": "Suzerain Stories: The Neutral Lens",
+    "slug": "suzerain_stories_the_neutral_lens",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/suzerain_stories_the_neutral_lens",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Suzerain Stories: The Neutral Lens Original Soundtrack",
+    "slug": "suzerain_stories_the_neutral_lens_original_soundtrack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/suzerain_stories_the_neutral_lens_original_soundtrack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Thief: The Dark Project Remastered",
     "slug": "thief_the_dark_project_remastered",
     "platform": "GOG",
@@ -285,28 +315,6 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/below_the_stone",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Monkeys!¡",
-    "slug": "monkeys",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/monkeys",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Monkeys!¡ UNRATED",
-    "slug": "monkeys_unrated",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/monkeys_unrated",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
