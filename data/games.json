@@ -122,6 +122,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Usual June",
+    "slug": "usual_june",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/usual_june",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Emberville",
     "slug": "emberville",
     "platform": "GOG",
@@ -287,34 +298,23 @@
     "freeType": "limited"
   },
   {
+    "title": "Gently Packed",
+    "slug": "gently_packed",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/gently_packed",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Space Station Designer",
     "slug": "space_station_designer",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/space_station_designer",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "The Last Gas Station - Winter Resort",
-    "slug": "the_last_gas_station_winter_resort",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/the_last_gas_station_winter_resort",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Below the Stone",
-    "slug": "below_the_stone",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/below_the_stone",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
