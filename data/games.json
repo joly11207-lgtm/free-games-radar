@@ -5,7 +5,15 @@
     "originalPrice": "0",
     "endDate": "2026-12-03T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
-    "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-i52vr.jpg"
+    "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1inmf.jpg"
+  },
+  {
+    "title": "Bread and Fred",
+    "platform": "Epic Games",
+    "originalPrice": "$14.99",
+    "endDate": "2027-01-07T16:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/bread-and-fred-1db362",
+    "image": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg"
   },
   {
     "title": "Ghostrunner 2",
@@ -46,14 +54,6 @@
     "endDate": "2026-12-21T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/terrascape-2b12b1",
     "image": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png"
-  },
-  {
-    "title": "Knightica",
-    "platform": "Epic Games",
-    "originalPrice": "$14.99",
-    "endDate": "2026-11-19T16:00:00.000Z",
-    "url": "https://store.epicgames.com/en-US/p/knightica-3be45c",
-    "image": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png"
   },
   {
     "title": "Shadow of the Road",
@@ -298,6 +298,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Blacksmith Master",
+    "slug": "blacksmith_master",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/blacksmith_master",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Gently Packed",
     "slug": "gently_packed",
     "platform": "GOG",
@@ -309,14 +320,243 @@
     "freeType": "limited"
   },
   {
-    "title": "Space Station Designer",
-    "slug": "space_station_designer",
-    "platform": "GOG",
+    "title": "Don&#039;t Look Back",
+    "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/space_station_designer",
+    "url": "https://ash-ashtroom.itch.io/dont-look-back",
     "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Trees Hate You (demo)",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://tykenn.itch.io/trees-hate-you",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Ambermoon.net",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://pyrdacor.itch.io/ambermoon",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "A Mirror&#039;s Curse SFW",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://amaty.itch.io/a-mirrors-curse-sfw",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Prehistoric Relations",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://pr-crew.itch.io/prehistoric-relations-vn",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Funerama",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://thibault-rivera.itch.io/funerama",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Traveloot",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://fluffy-lotus.itch.io/traveloot",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Darkness Calls the Raven (Demo)",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://raven-nights.itch.io/darkness-calls-the-raven-demo",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Nonogueram",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://jawdandev.itch.io/nonogueram",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mrdrnose.itch.io/votv",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "The Freak Circus",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://garula.itch.io/the-freak-circus",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "SCP Containment Breach: HD Edition",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://cbhdedition.itch.io/containment-breach-hd-edition",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "To Eat a God",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://soffis-mbm.itch.io/to-eat-a-god",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "14 Days With You [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Average Routine",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://colorlesswing-studio.itch.io/average-routine",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Doki Doki Literature Club!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://teamsalvato.itch.io/ddlc",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "LSD:FIH",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://polycube2.itch.io/fih",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "ERROR143",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://jennyvipham.itch.io/error143",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "A Date with Death",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "CreepyDates",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://hahadit.itch.io/creepydates",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Suzy Says!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://moonbit.itch.io/suzy-says",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Don&#039;t eat the cashier!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://detcc.itch.io/dont-eat-the-cashier",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Mushroom Oasis",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://deerspherestudios.itch.io/mushroom-oasis",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Big Bad Dogs",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://spar0w.itch.io/bigbaddogs",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
   }
 ]
