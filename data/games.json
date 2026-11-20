@@ -306,23 +306,23 @@
     "freeType": "limited"
   },
   {
-    "title": "Blacksmith Master",
-    "slug": "blacksmith_master",
+    "title": "SNEG Strategy Black Friday Bundle",
+    "slug": "sneg_strategy_black_friday_bundle",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/blacksmith_master",
+    "url": "https://www.gog.com/en/game/sneg_strategy_black_friday_bundle",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
   },
   {
-    "title": "Gently Packed",
-    "slug": "gently_packed",
+    "title": "Soldiers at War",
+    "slug": "soldiers_at_war",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/gently_packed",
+    "url": "https://www.gog.com/en/game/soldiers_at_war",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
