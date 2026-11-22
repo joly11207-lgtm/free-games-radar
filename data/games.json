@@ -19,7 +19,7 @@
     "title": "Eternal Threads",
     "platform": "Epic Games",
     "originalPrice": "$19.99",
-    "endDate": "2026-12-01T15:00:00.000Z",
+    "endDate": "2027-01-07T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/eternal-threads-197169",
     "image": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg"
   },
@@ -348,11 +348,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Don&#039;t Look Back",
+    "title": "&quot;Voices Of The Void&quot; Alpha",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://ash-ashtroom.itch.io/dont-look-back",
+    "url": "https://mrdrnose.itch.io/votv",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -368,16 +368,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Trees Hate You (demo)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://tykenn.itch.io/trees-hate-you",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "14 Days With You [DEMO]",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -388,31 +378,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "To Eat a God",
+    "title": "Don&#039;t Look Back",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://soffis-mbm.itch.io/to-eat-a-god",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Funerama",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://thibault-rivera.itch.io/funerama",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Ambermoon.net",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://pyrdacor.itch.io/ambermoon",
+    "url": "https://ash-ashtroom.itch.io/dont-look-back",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -428,11 +398,21 @@
     "freeType": "permanent"
   },
   {
-    "title": "Doki Doki Literature Club!",
+    "title": "To Eat a God",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://teamsalvato.itch.io/ddlc",
+    "url": "https://soffis-mbm.itch.io/to-eat-a-god",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Trees Hate You (demo)",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://tykenn.itch.io/trees-hate-you",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -448,31 +428,41 @@
     "freeType": "permanent"
   },
   {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "title": "Doki Doki Literature Club!",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
+    "url": "https://teamsalvato.itch.io/ddlc",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Prehistoric Relations",
+    "title": "CreepyDates",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://pr-crew.itch.io/prehistoric-relations-vn",
+    "url": "https://hahadit.itch.io/creepydates",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Traveloot",
+    "title": "A Date with Death",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://fluffy-lotus.itch.io/traveloot",
+    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Funerama",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://thibault-rivera.itch.io/funerama",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -498,26 +488,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "Project Landsword",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://mezzaninesoftware.itch.io/landsword",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "DummyWar",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://gufugu.itch.io/dummy-warfare",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "Suzy Says!",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -528,41 +498,71 @@
     "freeType": "permanent"
   },
   {
-    "title": "Nonogueram",
+    "title": "Dead Sight",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://jawdandev.itch.io/nonogueram",
+    "url": "https://siactro.itch.io/dead-sight",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "A Date with Death",
+    "title": "Prescription:LOVE",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
+    "url": "https://livingslime.itch.io/prescriptionlove",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Average Routine",
+    "title": "Kingdom Of Marionettes (DEMO)",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://colorlesswing-studio.itch.io/average-routine",
+    "url": "https://thepipiw.itch.io/kingdom-of-marionettes",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "Mushroom Oasis",
+    "title": "Ambermoon.net",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://deerspherestudios.itch.io/mushroom-oasis",
+    "url": "https://pyrdacor.itch.io/ambermoon",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Project Landsword",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://mezzaninesoftware.itch.io/landsword",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "TOUCHSTARVED: A Dark Romance Visual Novel",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://redspringstudio.itch.io/touchstarved",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "DummyWar",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://gufugu.itch.io/dummy-warfare",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
