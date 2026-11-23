@@ -295,17 +295,6 @@
     "freeType": "limited"
   },
   {
-    "title": "Workers & Resources: Soviet Republic - Space Program",
-    "slug": "workers_resources_soviet_republic_space_program",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/workers_resources_soviet_republic_space_program",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
     "title": "SNEG Strategy Black Friday Bundle",
     "slug": "sneg_strategy_black_friday_bundle",
     "platform": "GOG",
@@ -323,6 +312,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/soldiers_at_war",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Theocracy",
+    "slug": "theocracy",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/theocracy",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
