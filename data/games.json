@@ -11,7 +11,7 @@
     "title": "Bread and Fred",
     "platform": "Epic Games",
     "originalPrice": "$14.99",
-    "endDate": "2026-12-03T16:00:00.000Z",
+    "endDate": "2027-01-07T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/bread-and-fred-1db362",
     "image": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg"
   },
@@ -19,7 +19,7 @@
     "title": "Eternal Threads",
     "platform": "Epic Games",
     "originalPrice": "$19.99",
-    "endDate": "2026-12-01T15:00:00.000Z",
+    "endDate": "2027-01-07T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/eternal-threads-197169",
     "image": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg"
   },
@@ -54,6 +54,14 @@
     "endDate": "2027-01-07T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg"
+  },
+  {
+    "title": "Luftrausers",
+    "platform": "Epic Games",
+    "originalPrice": "$9.99",
+    "endDate": "2026-12-01T15:00:00.000Z",
+    "url": "https://store.epicgames.com/en-US/p/luftrausers-51e5e9",
+    "image": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png"
   },
   {
     "title": "TerraScape",
@@ -284,6 +292,28 @@
     "freeType": "limited"
   },
   {
+    "title": "AI War 2: Forge of Titans",
+    "slug": "ai_war_2_forge_of_titans",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/ai_war_2_forge_of_titans",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "AI War 2: Supporter Pack",
+    "slug": "ai_war_2_supporter_pack",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/ai_war_2_supporter_pack",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Stellaris: Willpower",
     "slug": "stellaris_willpower",
     "platform": "GOG",
@@ -295,34 +325,12 @@
     "freeType": "limited"
   },
   {
-    "title": "SNEG Strategy Black Friday Bundle",
-    "slug": "sneg_strategy_black_friday_bundle",
+    "title": "Workers & Resources: Soviet Republic - Space Program",
+    "slug": "workers_resources_soviet_republic_space_program",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/sneg_strategy_black_friday_bundle",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Soldiers at War",
-    "slug": "soldiers_at_war",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/soldiers_at_war",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Theocracy",
-    "slug": "theocracy",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/theocracy",
+    "url": "https://www.gog.com/en/game/workers_resources_soviet_republic_space_program",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
