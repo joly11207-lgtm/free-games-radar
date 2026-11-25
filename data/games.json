@@ -11,7 +11,7 @@
     "title": "Bread and Fred",
     "platform": "Epic Games",
     "originalPrice": "$14.99",
-    "endDate": "2027-01-07T16:00:00.000Z",
+    "endDate": "2026-12-03T16:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/bread-and-fred-1db362",
     "image": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg"
   },
@@ -124,6 +124,17 @@
     "freeType": "limited"
   },
   {
+    "title": "PRISON OF HUSKS",
+    "slug": "prison_of_husks",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/prison_of_husks",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Crystals Of Irm",
     "slug": "crystals_of_irm",
     "platform": "GOG",
@@ -174,6 +185,17 @@
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/frostpunk_2_the_surge",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
+    "title": "Taboo University Book Two",
+    "slug": "taboo_university_book_two",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/taboo_university_book_two",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -300,45 +322,23 @@
     "freeType": "limited"
   },
   {
+    "title": "The Spell Brigade - Brotato Brigado",
+    "slug": "the_spell_brigade_brotato_brigado",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/the_spell_brigade_brotato_brigado",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "AI War 2: Forge of Titans",
     "slug": "ai_war_2_forge_of_titans",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://www.gog.com/en/game/ai_war_2_forge_of_titans",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "AI War 2: Supporter Pack",
-    "slug": "ai_war_2_supporter_pack",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/ai_war_2_supporter_pack",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Stellaris: Willpower",
-    "slug": "stellaris_willpower",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/stellaris_willpower",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "Workers & Resources: Soviet Republic - Space Program",
-    "slug": "workers_resources_soviet_republic_space_program",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/workers_resources_soviet_republic_space_program",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
@@ -364,6 +364,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "Nightbound",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://frengoestudios.itch.io/nightbound",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Your Other Half [DAY 2]",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -384,21 +394,31 @@
     "freeType": "permanent"
   },
   {
-    "title": "LSD:FIH",
+    "title": "taking my Dark Knight Girlfriend to the corner store",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://polycube2.itch.io/fih",
+    "url": "https://breathlesswinds.itch.io/dark-knight-girlfriend",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
   },
   {
-    "title": "&quot;Voices Of The Void&quot; Alpha",
+    "title": "Shattered Pixel Dungeon",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://mrdrnose.itch.io/votv",
+    "url": "https://shattered-pixel.itch.io/shattered-pixel-dungeon",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "LSD:FIH",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://polycube2.itch.io/fih",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -414,11 +434,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "14 Days With You [DEMO]",
+    "title": "&quot;Voices Of The Void&quot; Alpha",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "url": "https://mrdrnose.itch.io/votv",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -434,11 +454,31 @@
     "freeType": "permanent"
   },
   {
+    "title": "14 Days With You [DEMO]",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://cutiesai.itch.io/14dayswithyou",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "Escaped Chasm",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
     "url": "https://tuyoki.itch.io/escaped-chasm",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
+    "title": "Amber Eyes",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://doksa.itch.io/amber-eyes",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -464,16 +504,6 @@
     "freeType": "permanent"
   },
   {
-    "title": "CreepyDates",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://hahadit.itch.io/creepydates",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
     "title": "To Eat a God",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -484,21 +514,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Amber Eyes",
+    "title": "CreepyDates",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://doksa.itch.io/amber-eyes",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Dead Sight",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://siactro.itch.io/dead-sight",
+    "url": "https://hahadit.itch.io/creepydates",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -514,6 +534,16 @@
     "freeType": "permanent"
   },
   {
+    "title": "Don&#039;t eat the cashier!",
+    "platform": "itch.io",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://detcc.itch.io/dont-eat-the-cashier",
+    "image": "",
+    "source": "itch.io Official",
+    "freeType": "permanent"
+  },
+  {
     "title": "A Date with Death",
     "platform": "itch.io",
     "originalPrice": "Free",
@@ -524,21 +554,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "Big Bad Dogs",
+    "title": "Dead Sight",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://spar0w.itch.io/bigbaddogs",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Don&#039;t eat the cashier!",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://detcc.itch.io/dont-eat-the-cashier",
+    "url": "https://siactro.itch.io/dead-sight",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
@@ -554,31 +574,11 @@
     "freeType": "permanent"
   },
   {
-    "title": "lurkers.io",
+    "title": "Big Bad Dogs",
     "platform": "itch.io",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://bergice.itch.io/lurkers",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Kingdom Of Marionettes (DEMO)",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://thepipiw.itch.io/kingdom-of-marionettes",
-    "image": "",
-    "source": "itch.io Official",
-    "freeType": "permanent"
-  },
-  {
-    "title": "Online Obsession",
-    "platform": "itch.io",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://sourmiiiilk.itch.io/online-obsession",
+    "url": "https://spar0w.itch.io/bigbaddogs",
     "image": "",
     "source": "itch.io Official",
     "freeType": "permanent"
