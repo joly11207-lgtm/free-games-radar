@@ -19,7 +19,7 @@
     "title": "Eternal Threads",
     "platform": "Epic Games",
     "originalPrice": "$19.99",
-    "endDate": "2027-01-07T16:00:00.000Z",
+    "endDate": "2026-12-01T15:00:00.000Z",
     "url": "https://store.epicgames.com/en-US/p/eternal-threads-197169",
     "image": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg"
   },
@@ -212,6 +212,17 @@
     "freeType": "limited"
   },
   {
+    "title": "Always With You: Meow & Mystery",
+    "slug": "always_with_you_meow_mystery",
+    "platform": "GOG",
+    "originalPrice": "Free",
+    "endDate": "",
+    "url": "https://www.gog.com/en/game/always_with_you_meow_mystery",
+    "image": "",
+    "source": "GOG Official API",
+    "freeType": "limited"
+  },
+  {
     "title": "Elements Destiny",
     "slug": "elements_destiny",
     "platform": "GOG",
@@ -322,23 +333,12 @@
     "freeType": "limited"
   },
   {
-    "title": "LoveR Kiss Endless Memories - Couple Apron",
-    "slug": "lover_kiss_endless_memories_couple_apron",
+    "title": "I Opened an Idle Bar So I Can GOON to HOT GIRLS",
+    "slug": "i_opened_an_idle_bar_so_i_can_goon_to_hot_girls",
     "platform": "GOG",
     "originalPrice": "Free",
     "endDate": "",
-    "url": "https://www.gog.com/en/game/lover_kiss_endless_memories_couple_apron",
-    "image": "",
-    "source": "GOG Official API",
-    "freeType": "limited"
-  },
-  {
-    "title": "LoveR Kiss Endless Memories - DLC Costume Set (7 Types)",
-    "slug": "lover_kiss_endless_memories_dlc_costume_set_7_types",
-    "platform": "GOG",
-    "originalPrice": "Free",
-    "endDate": "",
-    "url": "https://www.gog.com/en/game/lover_kiss_endless_memories_dlc_costume_set_7_types",
+    "url": "https://www.gog.com/en/game/i_opened_an_idle_bar_so_i_can_goon_to_hot_girls",
     "image": "",
     "source": "GOG Official API",
     "freeType": "limited"
